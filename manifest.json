@@ -1,8 +1,8 @@
 {
     "name": "BAHASANJI - 90 Hari Belajar Bahasa Jepang N5",
     "short_name": "BAHASANJI",
-    "start_url": "/index.html",
-    "scope": "/",
+    "start_url": "./index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
