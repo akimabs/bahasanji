@@ -9,7 +9,7 @@ const MapComponent = {
         let html = `
             <div class="header">
                 <div class="header-content">
-                    <h1>BAHASANJI</h1>
+                    <h1>BAHASANJI N5</h1>
                     <div class="header-stats">
                         <div class="stat">
                             <div class="stat-label">HARI</div>
