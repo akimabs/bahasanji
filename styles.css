@@ -36,6 +36,9 @@ body {
     letter-spacing: -0.01em;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 h1,
@@ -219,6 +222,7 @@ p {
     cursor: pointer;
     text-decoration: none;
     text-align: center;
+    touch-action: manipulation;
 }
 
 .btn:active {
@@ -332,6 +336,7 @@ p {
     cursor: pointer;
     position: relative;
     background: var(--white);
+    touch-action: manipulation;
 }
 
 .day-card:active:not(.locked) {
@@ -1184,6 +1189,8 @@ p {
     align-items: center;
     justify-content: center;
     min-width: 100px;
+    user-select: none;
+    pointer-events: none;
 }
 
 .kana-main {
