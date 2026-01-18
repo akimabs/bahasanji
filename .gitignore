@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.vscode/
+.antigravity/
+deploy.sh
+# Jangan upload data mentah jika tidak perlu
+# script.js jika ini bundle lama

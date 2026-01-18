@@ -1,0 +1,1262 @@
+{
+  "7": [
+    {
+      "questionText": "Tulisan Hiragana dari 'watashi' adalah...",
+      "options": [
+        "わたし",
+        "わだし",
+        "わたじ",
+        "わだじ"
+      ],
+      "correctAnswer": "わたし"
+    },
+    {
+      "questionText": "'せなか' dibaca...",
+      "options": [
+        "senaka",
+        "senaga",
+        "shenaka",
+        "shenaga"
+      ],
+      "correctAnswer": "senaka"
+    },
+    {
+      "questionText": "Dalam 'これ は ほん です', 'は' dibaca...",
+      "options": [
+        "wa",
+        "ha",
+        "ka",
+        "ga"
+      ],
+      "correctAnswer": "wa"
+    },
+    {
+      "questionText": "Pilih Hiragana untuk 'tsu'.",
+      "options": [
+        "つ",
+        "し",
+        "ち",
+        "す"
+      ],
+      "correctAnswer": "つ"
+    },
+    {
+      "questionText": "Tulisan Hiragana untuk 'ohayou' adalah...",
+      "options": [
+        "おはよう",
+        "おはよ",
+        "おはよお",
+        "おはゆう"
+      ],
+      "correctAnswer": "おはよう"
+    },
+    {
+      "questionText": "Huruf 'ちず' (peta) dibaca...",
+      "options": [
+        "chizu",
+        "chisu",
+        "chiju",
+        "chishu"
+      ],
+      "correctAnswer": "chizu"
+    },
+    {
+      "questionText": "Tulisan Hiragana untuk 'Sakana' (ikan) adalah...",
+      "options": [
+        "さかな",
+        "ざかな",
+        "さかね",
+        "ざかね"
+      ],
+      "correctAnswer": "さかな"
+    },
+    {
+      "questionText": "Pilih Hiragana untuk 'chi'.",
+      "options": [
+        "ち",
+        "し",
+        "き",
+        "さ"
+      ],
+      "correctAnswer": "ち"
+    },
+    {
+      "questionText": "Pilih Hiragana untuk 'shi'.",
+      "options": [
+        "し",
+        "ち",
+        "き",
+        "さ"
+      ],
+      "correctAnswer": "し"
+    },
+    {
+      "questionText": "Dalam kalimat 'A は B です', A adalah...",
+      "options": [
+        "Topik",
+        "Objek",
+        "Predikat",
+        "Keterangan"
+      ],
+      "correctAnswer": "Topik"
+    }
+  ],
+  "14": [
+    {
+      "questionText": "Tulisan Hiragana dari 'gyuunyuu' adalah...",
+      "options": [
+        "ぎゅうにゅう",
+        "ぎゆうにゆう",
+        "きゅうにゅう",
+        "きゆうにゆう"
+      ],
+      "correctAnswer": "ぎゅうにゅう"
+    },
+    {
+      "questionText": "'じてんしゃ' dibaca...",
+      "options": [
+        "jitensha",
+        "shitensha",
+        "jidensha",
+        "shidensha"
+      ],
+      "correctAnswer": "jitensha"
+    },
+    {
+      "questionText": "Huruf 'H' + ゜(Handakuten) menjadi suara...",
+      "options": [
+        "P",
+        "B",
+        "D",
+        "G"
+      ],
+      "correctAnswer": "P"
+    },
+    {
+      "questionText": "Dalam 'みず を のみます', 'を' dibaca...",
+      "options": [
+        "o",
+        "wo",
+        "wa",
+        "e"
+      ],
+      "correctAnswer": "o"
+    },
+    {
+      "questionText": "Tulisan Hiragana untuk 'byouin' (rumah sakit) adalah...",
+      "options": [
+        "びょういん",
+        "ひょういん",
+        "びよういん",
+        "ひよういん"
+      ],
+      "correctAnswer": "びょういん"
+    },
+    {
+      "questionText": "'さんぽ' (jalan-jalan) dibaca...",
+      "options": [
+        "sanpo",
+        "sanbo",
+        "sampo",
+        "sambo"
+      ],
+      "correctAnswer": "sanpo"
+    },
+    {
+      "questionText": "Tulisan Hiragana untuk 'Tempura' adalah...",
+      "options": [
+        "てんぷら",
+        "てんぶら",
+        "でんぷら",
+        "でんぶら"
+      ],
+      "correctAnswer": "てんぷら"
+    },
+    {
+      "questionText": "Pilih Hiragana untuk 'gyu'.",
+      "options": [
+        "ぎゅ",
+        "ぎゆ",
+        "きゅ",
+        "きゆ"
+      ],
+      "correctAnswer": "ぎゅ"
+    },
+    {
+      "questionText": "Pilih Hiragana untuk 'pyo'.",
+      "options": [
+        "ぴょ",
+        "ぴよ",
+        "ひょ",
+        "ひよ"
+      ],
+      "correctAnswer": "ぴょ"
+    },
+    {
+      "questionText": "Tanda (゛) yang mengubah 'H' menjadi 'B' disebut...",
+      "options": [
+        "Dakuten",
+        "Handakuten",
+        "Yoon",
+        "Sokuon"
+      ],
+      "correctAnswer": "Dakuten"
+    }
+  ],
+  "21": [
+    {
+      "questionText": "Terjemahkan: 'あれ は ぎんこう じゃありません。'",
+      "options": [
+        "Itu (jauh) bukan bank",
+        "Ini bukan bank",
+        "Apakah itu (jauh) bank?",
+        "Itu (jauh) adalah bank"
+      ],
+      "correctAnswer": "Itu (jauh) bukan bank"
+    },
+    {
+      "questionText": "Bagaimana cara bertanya 'Apa itu (dekatmu)?'",
+      "options": [
+        "それ は なん ですか。",
+        "これ は なん ですか。",
+        "あれ は なん ですか。",
+        "なん は それ ですか。"
+      ],
+      "correctAnswer": "それ は なん ですか。"
+    },
+    {
+      "questionText": "Jawaban 'はい、そうです。' berarti...",
+      "options": [
+        "Ya, benar",
+        "Tidak, bukan begitu",
+        "Saya tidak tahu",
+        "Tolong ulangi"
+      ],
+      "correctAnswer": "Ya, benar"
+    },
+    {
+      "questionText": "Ubah ke negatif: 'これ は わたし の かさ です。'",
+      "options": [
+        "これ は わたし の かさ じゃありません。",
+        "これ は わたし の かさ ですか。",
+        "これ は だれ の かさ ですか。",
+        "わたし の かさ は これ です。"
+      ],
+      "correctAnswer": "これ は わたし の かさ じゃありません。"
+    },
+    {
+      "questionText": "Pilih kalimat yang benar.",
+      "options": [
+        "あなた は がくせい ですか。",
+        "あなた が がくせい ですか。",
+        "あなた を がくせい ですか。",
+        "あなた に がくせい ですか。"
+      ],
+      "correctAnswer": "あなた は がくせい ですか。"
+    },
+    {
+      "questionText": "Tulisan Hiragana untuk 'Saya bukan dokter (いしゃ)' adalah...",
+      "options": [
+        "わたし は いしゃ じゃありません。",
+        "わたし は いしゃ ですか。",
+        "わたし は いしゃ です。",
+        "わたし の いしゃ です。"
+      ],
+      "correctAnswer": "わたし は いしゃ じゃありません。"
+    },
+    {
+      "questionText": "(Anda menunjuk buku di tangan teman) Anda berkata:",
+      "options": [
+        "それ は ほん ですか。",
+        "これ は ほん ですか。",
+        "あれ は ほん ですか。",
+        "なん は ほん ですか。"
+      ],
+      "correctAnswer": "それ は ほん ですか。"
+    },
+    {
+      "questionText": "(Anda memberikan hadiah) Anda berkata:",
+      "options": [
+        "これ は プレゼント です。",
+        "それ は プレゼント です。",
+        "あれ は プレゼント です。",
+        "なん は プレゼント です。"
+      ],
+      "correctAnswer": "これ は プレゼント です。"
+    },
+    {
+      "questionText": "Ubah ke positif: 'それ は ざっし じゃありません。'",
+      "options": [
+        "それ は ざっし です。",
+        "それ は ざっし ですか。",
+        "これ は ざっし です。",
+        "ざっし は それ です。"
+      ],
+      "correctAnswer": "それ は ざっし です。"
+    },
+    {
+      "questionText": "Pertanyaan 'あれ は びょういん ですか。', jika jawabannya 'Tidak', maka kalimatnya:",
+      "options": [
+        "いいえ、そうじゃありません。",
+        "はい、そうです。",
+        "いいえ、そうです。",
+        "はい、そうじゃありません。"
+      ],
+      "correctAnswer": "いいえ、そうじゃありません。"
+    }
+  ],
+  "28": [
+    {
+      "questionText": "Tulisan Katakana dari 'kompyuutaa' adalah...",
+      "options": [
+        "コンピューター",
+        "コンピュター",
+        "こんぴゅーたー",
+        "こんぴゅうたあ"
+      ],
+      "correctAnswer": "コンピューター"
+    },
+    {
+      "questionText": "Kalimat 'これ は わたし の ノート です' berarti...",
+      "options": [
+        "Ini adalah buku catatan saya",
+        "Ini adalah kamus saya",
+        "Ini adalah pulpen saya",
+        "Ini adalah tas saya"
+      ],
+      "correctAnswer": "Ini adalah buku catatan saya"
+    },
+    {
+      "questionText": "Mana Katakana untuk 'so'?",
+      "options": [
+        "ソ",
+        "ン",
+        "シ",
+        "ツ"
+      ],
+      "correctAnswer": "ソ"
+    },
+    {
+      "questionText": "Bagaimana cara menulis 'Restoran milik Tuan Smith'?",
+      "options": [
+        "スミスさん の レストラン",
+        "レストラン の スミスさん",
+        "スミスさん は レストラン",
+        "レストラン は スミスさん"
+      ],
+      "correctAnswer": "スミスさん の レストラン"
+    },
+    {
+      "questionText": "Terjemahkan: 'インドネシア の コーヒー。'",
+      "options": [
+        "Kopi dari Indonesia",
+        "Orang Indonesia dan kopi",
+        "Apakah ini kopi Indonesia?",
+        "Ini bukan kopi Indonesia"
+      ],
+      "correctAnswer": "Kopi dari Indonesia"
+    },
+    {
+      "questionText": "Huruf 'スーパー' dibaca...",
+      "options": [
+        "suupaa",
+        "supa",
+        "su-pa",
+        "suup"
+      ],
+      "correctAnswer": "suupaa"
+    },
+    {
+      "questionText": "Tulisan Katakana untuk 'Maria' adalah...",
+      "options": [
+        "マリア",
+        "まりあ",
+        "マりあ",
+        "まりア"
+      ],
+      "correctAnswer": "マリア"
+    },
+    {
+      "questionText": "Kalimat 'ホテル の へや は ひろい です' berarti...",
+      "options": [
+        "Kamar hotelnya luas",
+        "Hotelnya luas",
+        "Ini kamar hotel",
+        "Hotelnya di kamar"
+      ],
+      "correctAnswer": "Kamar hotelnya luas"
+    },
+    {
+      "questionText": "Tulis Hiragana untuk 'milik siapa':",
+      "options": [
+        "だれの",
+        "だれ",
+        "だれか",
+        "だれも"
+      ],
+      "correctAnswer": "だれの"
+    },
+    {
+      "questionText": "Mana Katakana untuk konsonan 'n'?",
+      "options": [
+        "ン",
+        "ソ",
+        "シ",
+        "ツ"
+      ],
+      "correctAnswer": "ン"
+    }
+  ],
+  "37": [
+    {
+      "questionText": "Bentuk positif lampau (-mashita) dari 'ikimasu' (pergi) adalah...",
+      "options": [
+        "ikimasen",
+        "ikimashita",
+        "ikimasen deshita",
+        "ikimasu"
+      ],
+      "correctAnswer": "ikimashita"
+    },
+    {
+      "questionText": "Bentuk negatif sekarang (-masen) dari 'tabemasu' (makan) adalah...",
+      "options": [
+        "tabemashita",
+        "tabemasen deshita",
+        "tabemasu",
+        "tabemasen"
+      ],
+      "correctAnswer": "tabemasen"
+    },
+    {
+      "questionText": "Bentuk negatif lampau (-masen deshita) dari 'nomimasu' (minum) adalah...",
+      "options": [
+        "nomimasen deshita",
+        "nomimasu",
+        "nomimasen",
+        "nomimashita"
+      ],
+      "correctAnswer": "nomimasen deshita"
+    },
+    {
+      "questionText": "Ubah kalimat 'きのう、べんきょうしました。' menjadi negatif lampau.",
+      "options": [
+        "きのう、べんきょうします。",
+        "きのう、べんきょうしません。",
+        "きのう、べんきょうしませんでした。",
+        "きょう、べんきょうしませんでした。"
+      ],
+      "correctAnswer": "きのう、べんきょうしませんでした。"
+    },
+    {
+      "questionText": "Isi bagian kosong: 'あした、ともだち と えいが を ___ 。' (Besok, saya ___ film dengan teman.)",
+      "options": [
+        "mimasu",
+        "mimashita",
+        "mimasen deshita",
+        "mimasen"
+      ],
+      "correctAnswer": "mimasu"
+    },
+    {
+      "questionText": "Isi bagian kosong: 'きのう、かれ は がっこう へ ___ 。' (Kemarin, dia (lk) ___ ke sekolah.)",
+      "options": [
+        "ikimasu",
+        "ikimasen",
+        "ikimashita",
+        "ikimasen deshita"
+      ],
+      "correctAnswer": "ikimashita"
+    },
+    {
+      "questionText": "Isi bagian kosong: 'わたし は まいにち ごはん を ___ 。' (Saya setiap hari ___ nasi.)",
+      "options": [
+        "tabemasu",
+        "tabemashita",
+        "tabemasen deshita",
+        "tabemasen"
+      ],
+      "correctAnswer": "tabemasu"
+    },
+    {
+      "questionText": "Isi bagian kosong: 'せんしゅう、ほん を ___ 。' (Minggu lalu, saya tidak ___ buku.)",
+      "options": [
+        "yomimasen",
+        "yomimasen deshita",
+        "yomimashita",
+        "yomimasu"
+      ],
+      "correctAnswer": "yomimasen deshita"
+    },
+    {
+      "questionText": "Isi bagian kosong: 'こんばん、テレビ を ___ 。' (Malam ini, saya tidak ___ TV.)",
+      "options": [
+        "mimasen deshita",
+        "mimashita",
+        "mimasu",
+        "mimasen"
+      ],
+      "correctAnswer": "mimasen"
+    },
+    {
+      "questionText": "Terjemahan yang benar untuk 'Kemarin saya tidak membeli apa-apa.' adalah...",
+      "options": [
+        "きのう、なにも かいませんでした。",
+        "きのう、なにも かいません。",
+        "きのう、なにも かいました。",
+        "あした、なにも かいませんでした。"
+      ],
+      "correctAnswer": "きのう、なにも かいませんでした。"
+    }
+  ],
+  "44": [
+    {
+      "questionText": "Isi bagian kosong: わたし は ほん ___ よみます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctAnswer": "を"
+    },
+    {
+      "questionText": "Isi bagian kosong: わたし は ６じ ___ おきます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correctAnswer": "に"
+    },
+    {
+      "questionText": "Isi bagian kosong: レストラン ___ ひるごはん を たべます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Isi bagian kosong: でんしゃ ___ かいしゃ へ いきます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Isi bagian kosong: ともだち ___ えいが を みました。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctAnswer": "と"
+    },
+    {
+      "questionText": "Isi bagian kosong: あした、おおさか ___ いきます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correctAnswer": "へ"
+    },
+    {
+      "questionText": "Isi bagian kosong: きのう、デパート ___ くつ を かいました。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Isi bagian kosong: わたし は はし ___ ごはん を たべます。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Isi bagian kosong: まいあさ、なんじ ___ おきますか。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctAnswer": "に"
+    },
+    {
+      "questionText": "Isi bagian kosong: かれ は にほんご ___ はなします。",
+      "options": [
+        "を",
+        "に",
+        "で",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Pilih partikel yang tepat: がっこう ___ いきます。 (Pergi KE sekolah)",
+      "options": [
+        "に",
+        "で",
+        "を",
+        "と"
+      ],
+      "correctAnswer": "に"
+    },
+    {
+      "questionText": "Pilih partikel yang tepat: がっこう ___ べんきょうします。 (Belajar DI sekolah)",
+      "options": [
+        "に",
+        "で",
+        "を",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Pilih partikel yang tepat: バス ___ のります。 (Naik bus)",
+      "options": [
+        "に",
+        "で",
+        "を",
+        "と"
+      ],
+      "correctAnswer": "に"
+    },
+    {
+      "questionText": "Pilih partikel yang tepat: バス ___ きます。 (Datang DENGAN bus)",
+      "options": [
+        "に",
+        "で",
+        "を",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Pilih partikel yang tepat: ともだち ___ あいます。 (Bertemu teman)",
+      "options": [
+        "に",
+        "で",
+        "を",
+        "と"
+      ],
+      "correctAnswer": "に"
+    }
+  ],
+  "51": [
+    {
+      "questionText": "Kata 'しずか' (shizuka - tenang) adalah jenis kata sifat...",
+      "options": [
+        "Kata Sifat-い",
+        "Kata Sifat-な",
+        "Kata Kerja"
+      ],
+      "correctAnswer": "Kata Sifat-な"
+    },
+    {
+      "questionText": "Kata 'あたらしい' (atarashii - baru) adalah jenis kata sifat...",
+      "options": [
+        "Kata Sifat-い",
+        "Kata Sifat-な",
+        "Kata Benda"
+      ],
+      "correctAnswer": "Kata Sifat-い"
+    },
+    {
+      "questionText": "Bentuk negatif dari 'たかい' (takai - mahal) adalah...",
+      "options": [
+        "たかい じゃありません",
+        "たかくない です",
+        "たかい ではありませんか"
+      ],
+      "correctAnswer": "たかくない です"
+    },
+    {
+      "questionText": "Bentuk negatif dari 'きれい' (kirei - bersih/cantik) adalah...",
+      "options": [
+        "きれい じゃありません",
+        "きれいくない です",
+        "きれい ありません"
+      ],
+      "correctAnswer": "きれい じゃありません"
+    },
+    {
+      "questionText": "Bentuk penghubung dari 'ふるい' (furui - tua) untuk digabung dengan kata sifat lain adalah...",
+      "options": [
+        "ふるいで",
+        "ふるな",
+        "ふるくて"
+      ],
+      "correctAnswer": "ふるくて"
+    },
+    {
+      "questionText": "Pilih kalimat yang benar untuk 'kota yang ramai (にぎやか)'.",
+      "options": [
+        "にぎやか まち",
+        "にぎやか な まち",
+        "にぎやか い まち"
+      ],
+      "correctAnswer": "にぎやか な まち"
+    },
+    {
+      "questionText": "Pilih kalimat yang benar untuk 'kamar yang luas (ひろい)'.",
+      "options": [
+        "ひろい な へや",
+        "ひろい へや",
+        "ひろい で へや"
+      ],
+      "correctAnswer": "ひろい へや"
+    },
+    {
+      "questionText": "Isi bagian kosong: この レストラン は おいし___、ゆうめい です。",
+      "options": [
+        "くて",
+        "で",
+        "な"
+      ],
+      "correctAnswer": "くて"
+    },
+    {
+      "questionText": "Isi bagian kosong: かれ は しんせつ___、おもしろい ひと です。",
+      "options": [
+        "くて",
+        "で",
+        "な"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "Terjemahan yang tepat untuk 'Hotel itu tidak besar, tapi bersih.' adalah...",
+      "options": [
+        "その ホテル は おおきくない です でも、きれい です。",
+        "その ホテル は おおきい じゃありません でも、きれい です。",
+        "その ホテル は おおきくて、きれい じゃありません。"
+      ],
+      "correctAnswer": "その ホテル は おおきくない です でも、きれい です。"
+    }
+  ],
+  "58": [
+    {
+      "questionText": "Tulisan Hiragana yang benar untuk angka 81 adalah...",
+      "options": [
+        "はちじゅういち",
+        "はちじゅうひ",
+        "はじじゅういち",
+        "はちじゅうし"
+      ],
+      "correctAnswer": "はちじゅういち"
+    },
+    {
+      "questionText": "Bagaimana cara mengatakan 'empat buah' dalam bahasa Jepang?",
+      "options": [
+        "よん",
+        "よじ",
+        "よっつ",
+        "よつ"
+      ],
+      "correctAnswer": "よっつ"
+    },
+    {
+      "questionText": "Bagaimana cara membaca 9時?",
+      "options": [
+        "きゅうじ (kyuuji)",
+        "くじ (kuji)",
+        "きゅうじゅう (kyuujuu)",
+        "くじゅう (kujuu)"
+      ],
+      "correctAnswer": "くじ (kuji)"
+    },
+    {
+      "questionText": "Frasa 'しちじ はん' (shichiji han) berarti...",
+      "options": [
+        "Jam 7:15",
+        "Jam 7:30",
+        "Jam 8:07",
+        "Jam 6:30"
+      ],
+      "correctAnswer": "Jam 7:30"
+    },
+    {
+      "questionText": "Tulisan Hiragana yang benar untuk 10 menit adalah...",
+      "options": [
+        "じゅっぷん (juppun)",
+        "じゅうふん (juufun)",
+        "じっぷん (jippun)",
+        "とおふん (toofun)"
+      ],
+      "correctAnswer": "じゅっぷん (juppun)"
+    },
+    {
+      "questionText": "Arti dari kanji 木 adalah...",
+      "options": [
+        "Api",
+        "Air",
+        "Pohon",
+        "Tanah"
+      ],
+      "correctAnswer": "Pohon"
+    },
+    {
+      "questionText": "Bacaan yang benar untuk 日本 adalah...",
+      "options": [
+        "ひとほん (hitohon)",
+        "にほん (Nihon)",
+        "ひもと (himoto)",
+        "にちほん (nichihon)"
+      ],
+      "correctAnswer": "にほん (Nihon)"
+    },
+    {
+      "questionText": "Kanji untuk 'orang' adalah...",
+      "options": [
+        "人",
+        "入",
+        "火",
+        "八"
+      ],
+      "correctAnswer": "人"
+    },
+    {
+      "questionText": "Dalam kata '月曜日' (Senin), kanji 月 memiliki bacaan On'yomi...",
+      "options": [
+        "つき (tsuki)",
+        "げつ (getsu)",
+        "がつ (gatsu)",
+        "つきひ (tsukihi)"
+      ],
+      "correctAnswer": "げつ (getsu)"
+    },
+    {
+      "questionText": "Kalimat 'みず を のみます' (minum air), jika 'みず' ditulis dengan Kanji menjadi...",
+      "options": [
+        "火 を のみます",
+        "水 を のみます",
+        "木 を のみます",
+        "土 を のみます"
+      ],
+      "correctAnswer": "水 を のみます"
+    }
+  ],
+  "67": [
+    {
+      "questionText": "Bentuk-TE yang benar untuk `みます` (Grup 2) adalah...",
+      "options": [
+        "みて",
+        "みって",
+        "みんで",
+        "みします"
+      ],
+      "correctAnswer": "みて"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk `きます` (Grup 3) adalah...",
+      "options": [
+        "くって",
+        "きて",
+        "こて",
+        "きします"
+      ],
+      "correctAnswer": "きて"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk `まちます` (Grup 1) adalah...",
+      "options": [
+        "まちて",
+        "まいて",
+        "まって",
+        "まんで"
+      ],
+      "correctAnswer": "まって"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk `のみます` (Grup 1) adalah...",
+      "options": [
+        "のんで",
+        "のみて",
+        "のって",
+        "のみます"
+      ],
+      "correctAnswer": "のんで"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk `かきます` (Grup 1) adalah...",
+      "options": [
+        "かって",
+        "かいて",
+        "かして",
+        "かきます"
+      ],
+      "correctAnswer": "かいて"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk `およぎます` (Grup 1) adalah...",
+      "options": [
+        "およぎて",
+        "およって",
+        "およいで",
+        "およぎます"
+      ],
+      "correctAnswer": "およいで"
+    },
+    {
+      "questionText": "Bentuk-TE yang benar untuk pengecualian `いきます` (Grup 1) adalah...",
+      "options": [
+        "いいて",
+        "いって",
+        "いんで",
+        "いきます"
+      ],
+      "correctAnswer": "いって"
+    },
+    {
+      "questionText": "Kalimat yang benar untuk 'Tolong buka pintunya (`ドア`)' adalah...",
+      "options": [
+        "ドア を あけてください。",
+        "ドア を あきますください。",
+        "ドア を あけってください。",
+        "ドア を あけています。"
+      ],
+      "correctAnswer": "ドア を あけてください。"
+    },
+    {
+      "questionText": "Isi bagian kosong: ほん を よ___、ねました。 (Membaca buku, lalu tidur.)",
+      "options": [
+        "んで",
+        "みます",
+        "んでから",
+        "みました"
+      ],
+      "correctAnswer": "んで"
+    },
+    {
+      "questionText": "Terjemahan yang paling tepat untuk 'Permisi, tolong ajari saya Bahasa Jepang.' adalah...",
+      "options": [
+        "すみません、にほんご を おしえてください。",
+        "すみません、にほんご を おしえます。",
+        "すみません、にほんご を おしえってください。",
+        "にほんご を おしえて、すみません。"
+      ],
+      "correctAnswer": "すみません、にほんご を おしえてください。"
+    }
+  ],
+  "74": [
+    {
+      "questionText": "Bagaimana cara mengatakan 'Saya ingin minum air (みず)'?",
+      "options": [
+        "みず を のみます。",
+        "みず が のみたい です。",
+        "みず を のむこと が できます。"
+      ],
+      "correctAnswer": "みず が のみたい です。"
+    },
+    {
+      "questionText": "Bagaimana cara mengatakan 'Saya bisa membaca (よむ) Kanji'?",
+      "options": [
+        "かんじ が よみたい です。",
+        "かんじ を よみます。",
+        "かんじ を よむこと が できます。"
+      ],
+      "correctAnswer": "かんじ を よむこと が できます。"
+    },
+    {
+      "questionText": "Pilih kalimat yang benar untuk 'Saya jarang menonton TV.'",
+      "options": [
+        "わたし は あまり テレビ を みます。",
+        "わたし は あまり テレビ を みません。",
+        "わたし は ぜんぜん テレビ を みません。"
+      ],
+      "correctAnswer": "わたし は あまり テレビ を みません。"
+    },
+    {
+      "questionText": "Kata keterangan frekuensi yang berarti 'selalu' adalah...",
+      "options": [
+        "よく",
+        "ときどき",
+        "いつも"
+      ],
+      "correctAnswer": "いつも"
+    },
+    {
+      "questionText": "Bentuk negatif dari `たべたい です` (ingin makan) adalah...",
+      "options": [
+        "たべません です",
+        "たべたくない です",
+        "たべたい じゃありません"
+      ],
+      "correctAnswer": "たべたくない です"
+    },
+    {
+      "questionText": "Bentuk negatif dari `すること が できます` (bisa melakukan) adalah...",
+      "options": [
+        "しないこと が できます",
+        "すること が できません",
+        "すること が できませんでした"
+      ],
+      "correctAnswer": "すること が できません"
+    },
+    {
+      "questionText": "Bacaan yang benar untuk `本を読む` adalah...",
+      "options": [
+        "ほん を よむ",
+        "もと を よむ",
+        "ほん を よみます"
+      ],
+      "correctAnswer": "ほん を よむ"
+    },
+    {
+      "questionText": "Arti dari kanji `聞` adalah...",
+      "options": [
+        "Berbicara",
+        "Mendengar/Bertanya",
+        "Melihat"
+      ],
+      "correctAnswer": "Mendengar/Bertanya"
+    },
+    {
+      "questionText": "Pilih kalimat yang benar untuk 'Saya ingin pergi (`行く`) ke Jepang.'",
+      "options": [
+        "にほん へ いくこと が できます。",
+        "にほん へ いきたい です。",
+        "にほん へ いきます。"
+      ],
+      "correctAnswer": "にほん へ いきたい です。"
+    },
+    {
+      "questionText": "Terjemahan yang benar untuk 'Saya tidak pernah makan sushi.' adalah...",
+      "options": [
+        "わたし は ぜんぜん すし を たべません。",
+        "わたし は あまり すし を たべません。",
+        "わたし は ときどき すし を たべません。"
+      ],
+      "correctAnswer": "わたし は ぜんぜん すし を たべません。"
+    }
+  ],
+  "81": [
+    {
+      "questionText": "[Kanji Reading] Bacaan yang benar untuk kata yang digarisbawahi: 私 の 「名前」 は たなか です。",
+      "options": [
+        "なまえ",
+        "めい",
+        "なまええ",
+        "みょう"
+      ],
+      "correctAnswer": "なまえ"
+    },
+    {
+      "questionText": "[Kanji Reading] Bacaan yang benar untuk kata yang digarisbawahi: 電車 で 「学校」 へ 行きます。",
+      "options": [
+        "がくせい",
+        "がっこう",
+        "だいがく",
+        "こうがく"
+      ],
+      "correctAnswer": "がっこう"
+    },
+    {
+      "questionText": "[Kanji Reading] Bacaan yang benar untuk kata yang digarisbawahi: 「今、何時」 ですか。",
+      "options": [
+        "こん、なんじ",
+        "いま、なんどき",
+        "いま、なんじ",
+        "こん、なにどき"
+      ],
+      "correctAnswer": "いま、なんじ"
+    },
+    {
+      "questionText": "[Kanji Meaning] Kanji yang berarti 'negara' adalah...",
+      "options": [
+        "国",
+        "校",
+        "駅",
+        "気"
+      ],
+      "correctAnswer": "国"
+    },
+    {
+      "questionText": "[Kanji Writing] Tulisan Kanji yang benar untuk 'ame' (hujan) adalah...",
+      "options": [
+        "雨",
+        "電",
+        "気",
+        "天"
+      ],
+      "correctAnswer": "雨"
+    },
+    {
+      "questionText": "[Vocabulary] Isi bagian kosong: (_____) に えいが を みます。",
+      "options": [
+        "時間 (waktu)",
+        "日曜日 (Hari Minggu)",
+        "半 (setengah)",
+        "年 (tahun)"
+      ],
+      "correctAnswer": "日曜日 (Hari Minggu)"
+    },
+    {
+      "questionText": "[Vocabulary] Isi bagian kosong: この 車 は あたらしい です。でも、すこし (_____) です。",
+      "options": [
+        "たかい (mahal)",
+        "ふるい (tua)",
+        "やすい (murah)",
+        "ちいさい (kecil)"
+      ],
+      "correctAnswer": "たかい (mahal)"
+    },
+    {
+      "questionText": "[Vocabulary] Isi bagian kosong: あそこ に ゆうめい な (_____) が あります。",
+      "options": [
+        "えき (stasiun)",
+        "あめ (hujan)",
+        "はん (setengah)",
+        "でんき (listrik)"
+      ],
+      "correctAnswer": "えき (stasiun)"
+    },
+    {
+      "questionText": "[Kanji Reading] Bacaan yang benar untuk kata yang digarisbawahi: かれ は 英語 の 「先生」 です。",
+      "options": [
+        "せんじょう",
+        "せんせい",
+        "さきうまれ",
+        "せんしょう"
+      ],
+      "correctAnswer": "せんせい"
+    },
+    {
+      "questionText": "[Vocabulary] Isi bagian kosong: A: すみません、(_____) は どこ ですか。 B: あそこ です。",
+      "options": [
+        "えき (stasiun)",
+        "さかな (ikan)",
+        "ほん (buku)",
+        "じかん (waktu)"
+      ],
+      "correctAnswer": "えき (stasiun)"
+    }
+  ],
+  "88": [
+    {
+      "questionText": "[Bunpou] Isi bagian kosong: わたし は きのう、うち ___ べんきょうしませんでした。",
+      "options": [
+        "で",
+        "に",
+        "を",
+        "へ"
+      ],
+      "correctAnswer": "で"
+    },
+    {
+      "questionText": "[Bunpou] Isi bagian kosong: せんしゅう みた えいが は あまり ___。",
+      "options": [
+        "おもしろかったです",
+        "おもしろくなかったです",
+        "おもしろいです",
+        "おもしろくないです"
+      ],
+      "correctAnswer": "おもしろくなかったです"
+    },
+    {
+      "questionText": "[Bunpou ★] Temukan kata di posisi bintang: わたし は ___ ___ ★ ___ ___ ほしい です。\n(Pilihan: 1.くるま 2.あたらしい 3.が 4.の)",
+      "options": [
+        "くるま",
+        "あたらしい",
+        "が",
+        "の"
+      ],
+      "correctAnswer": "あたらしい"
+    },
+    {
+      "questionText": "[Dokkai] あたらしい かいぎ の じかん は なんじ ですか。",
+      "referenceText": "たなかさんへ。すみません、あした の かいぎ は １０時 じゃありません。ごご ２時 に なりました。ばしょ は おなじ です。",
+      "options": [
+        "ごぜん１０時",
+        "ごご２時",
+        "ごご３時",
+        "わかりません"
+      ],
+      "correctAnswer": "ごご２時"
+    },
+    {
+      "questionText": "[Dokkai] どうして きょう としょかん は やすみ ですか。",
+      "referenceText": "おしらせ：きょう は でんき の もんだい が ありますから、としょかん は やすみ です。あした は あさ９時 から あいています。",
+      "options": [
+        "あたらしい本がありますから",
+        "あした休みですから",
+        "でんきの もんだいがありますから",
+        "ひとがいませんから"
+      ],
+      "correctAnswer": "でんきの もんだいがありますから"
+    },
+    {
+      "questionText": "[Choukai] おとこのひと は このあと、なに を しますか。",
+      "referenceText": "女：すみません、この かんじ の よみかた を おしえてください。\n男：はい、いいですよ。ええと... あ、すみません、わたし も わかりません。じしょ で しらべましょう。",
+      "options": [
+        "かんじ を おしえます。",
+        "じしょ で しらべます。",
+        "わかりません と いいます。",
+        "おんなのひと に ききます。"
+      ],
+      "correctAnswer": "じしょ で しらべます。"
+    },
+    {
+      "questionText": "[Choukai] おんなのひと は どうして パーティー に いきませんでしたか。",
+      "referenceText": "男：きのう の パーティー は たのしかった ですね。どうして きませんでしたか。\n女：ともだち が びょうき でしたから、びょういん へ いきました。",
+      "options": [
+        "びょうき でしたから。",
+        "ともだち と びょういん へ いきましたから。",
+        "パーティー が すきじゃない から。",
+        "しごと がありましたから。"
+      ],
+      "correctAnswer": "ともだち と びょういん へ いきましたから。"
+    },
+    {
+      "questionText": "[Choukai] くるま は いくら ですか。",
+      "referenceText": "女：この あかい くるま は とても きれいですね。いくら ですか。\n男：あれ ですか。あれ は ８０まんえん です。\n女：そうですか。ちょっと たかい ですね。",
+      "options": [
+        "８０えん",
+        "８００えん",
+        "８０まんえん",
+        "わかりません"
+      ],
+      "correctAnswer": "８０まんえん"
+    },
+    {
+      "questionText": "[Choukai] おとこのひと は あした なに を しますか。",
+      "referenceText": "女：あした、いっしょに テニス を しませんか。\n男：すみません、あした は ちょっと...。かいしゃ の ひと と やま へ いきます。",
+      "options": [
+        "テニス を します。",
+        "しごと を します。",
+        "やま へ いきます。",
+        "かいしゃ へ いきます。"
+      ],
+      "correctAnswer": "やま へ いきます。"
+    },
+    {
+      "questionText": "[Bunpou ★] Temukan kata di posisi bintang: コーヒー ___ ___ ★ ___ ___ のみませんか。\n(Pilihan: 1.を 2.いっしょに 3.で 4.カフェ)",
+      "options": [
+        "を",
+        "いっしょに",
+        "で",
+        "カフェ"
+      ],
+      "correctAnswer": "で"
+    }
+  ]
+}

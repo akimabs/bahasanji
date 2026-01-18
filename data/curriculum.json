@@ -1,0 +1,4162 @@
+{
+  "1": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Gerbang Pertama",
+          "icon": "🚀",
+          "color": "blue",
+          "children": "Selamat datang, Pejuang Mimpi!\n\nKonnichiwa! (こんにちは!)\n\nIni adalah hari pertama yang sesungguhnya. Hari di mana Anda meletakkan batu fondasi pertama untuk jembatan yang akan membawa Anda ke Jepang. Anggap setiap goresan yang Anda tulis adalah investasi untuk masa depan Anda."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Vokal (a, i, u, e, o)",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "あ (a): Seperti 'a' pada kata 'anak'. Jembatan Keledai: Sebuah Apel yang ditusuk.",
+                "い (i): Seperti 'i' pada kata 'ikan'. Jembatan Keledai: Sepasang ikan berenang.",
+                "う (u): Bibir rileks. Jembatan Keledai: Ular yang meringkuk.",
+                "え (e): Seperti 'e' pada kata 'lele'. Jembatan Keledai: Cacing melakukan Erobik.",
+                "お (o): Seperti 'o' pada kata 'toko'. Jembatan Keledai: Orang memakai topi."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'K'",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "か (ka): Jembatan Keledai: Tendangan KArate.",
+                "き (ki): Jembatan Keledai: Gambar sebuah KEY (kunci).",
+                "く (ku): Jembatan Keledai: Mulut burung KUkutai (<).",
+                "け (ke): Jembatan Keledai: Sebuah KErangka atau gawang.",
+                "こ (ko): Jembatan Keledai: Dua ekor KOala berpelukan."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Salam Ajaib",
+          "icon": "💬",
+          "color": "pink",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "おはようございます (Ohayou gozaimasu): Selamat Pagi (Formal). Digunakan dari subuh hingga ~10 pagi.",
+                "こんにちは (Konnichiwa): Selamat Siang / Halo. Digunakan dari ~10 pagi hingga matahari terbenam.",
+                "こんばんは (Konbanwa): Selamat Malam. Digunakan setelah matahari terbenam."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "あか",
+            "reading": "aka",
+            "meaning": "Merah"
+          },
+          {
+            "word": "あお",
+            "reading": "ao",
+            "meaning": "Biru"
+          },
+          {
+            "word": "うえ",
+            "reading": "ue",
+            "meaning": "Atas"
+          },
+          {
+            "word": "いい",
+            "reading": "ii",
+            "meaning": "Bagus / Baik"
+          },
+          {
+            "word": "いう",
+            "reading": "iu",
+            "meaning": "Berkata"
+          },
+          {
+            "word": "えき",
+            "reading": "eki",
+            "meaning": "Stasiun"
+          },
+          {
+            "word": "かお",
+            "reading": "kao",
+            "meaning": "Wajah"
+          },
+          {
+            "word": "きく",
+            "reading": "kiku",
+            "meaning": "Mendengar / Bertanya"
+          },
+          {
+            "word": "こえ",
+            "reading": "koe",
+            "meaning": "Suara"
+          },
+          {
+            "word": "いけ",
+            "reading": "ike",
+            "meaning": "Kolam"
+          },
+          {
+            "word": "かき",
+            "reading": "kaki",
+            "meaning": "Kesemek / Tiram"
+          },
+          {
+            "word": "ここ",
+            "reading": "koko",
+            "meaning": "Di Sini"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis ke-10 Hiragana (あ, い, う, え, お, か, き, く, け, こ) masing-masing sebanyak 30 kali.",
+          "Tugas Membaca Cepat: Baca kata あか (aka), えき (eki), いけ (ike), かお (kao), こえ (koe), きく (kiku).",
+          "Tugas Praktik Salam: Ucapkan ketiga salam hari ini di depan cermin, masing-masing 5 kali."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Waktunya Pembuktian!",
+          "icon": "⚔️",
+          "color": "red",
+          "children": "Hari ini tidak ada materi baru. Fokus kita adalah memantapkan ingatan pada baris A dan KA. Pastikan Anda sudah hafal bentuk dan bunyi dari あ, い, う, え, お, か, き, く, け, こ sebelum memulai kuis."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Ringkasan Review",
+          "icon": "📝",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Gunakan waktu hari ini untuk mengulang kembali coretan Anda. Ingat jembatan keledai yang sudah dipelajari kemarin."
+            },
+            {
+              "type": "list",
+              "content": [
+                "あ (a) vs お (o) - Jangan sampai tertukar!",
+                "か (ka) vs き (ki) - Perhatikan jumlah garis horizontalnya.",
+                "Salam Dasar: Konnichiwa, Ohayou, Konbanwa."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Review: Baca kembali 10 Hiragana pertama 5 kali dengan lantang.",
+          "Misi Utama: Selesaikan 50 flashcard tantangan hari ini dengan akurasi di atas 80%.",
+          "Tugas Menulis: Jika ada huruf yang salah di kuis, tulis huruf tersebut 20 kali lagi."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Tantangan Hari Ini",
+          "icon": "🎯",
+          "color": "blue",
+          "children": "Hari ini, kita akan menambah 10 kunci lagi. Namun, di antara 10 kunci ini, ada 3 yang sedikit 'licik'. Menguasai 3 huruf ini akan membuat Anda selangkah lebih maju."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'S'",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "さ (sa): Seperti 'sa' pada 'satu'. Jembatan Keledai: SAbit tergeletak.",
+                "す (su): Seperti 'su' pada 'suka'. Jembatan Keledai: Jejak SUsiput.",
+                "せ (se): Seperti 'se' pada 'sendal'. Jembatan Keledai: Mulut terSEnyum.",
+                "そ (so): Seperti 'so' pada 'soto'. Jembatan Keledai: Benang jahit zig-zag."
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Perhatian!",
+                "text": "し (shi): Dibaca 'shi' seperti 'shintaro', bukan 'si'."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'T'",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "た (ta): Jembatan Keledai: Gabungan huruf 't' dan 'a'.",
+                "て (te): Jembatan Keledai: Ekor (teil) anjing.",
+                "と (to): Jembatan Keledai: TOmato ditusuk."
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Perhatian!",
+                "text": "ち (chi): Dibaca 'chi' seperti 'chicah'."
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Perhatian!",
+                "text": "つ (tsu): Dibaca 'tsu' seperti di akhir kata 'cats'."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "あさ",
+            "reading": "asa",
+            "meaning": "Pagi"
+          },
+          {
+            "word": "すし",
+            "reading": "sushi",
+            "meaning": "Sushi"
+          },
+          {
+            "word": "しお",
+            "reading": "shio",
+            "meaning": "Garam"
+          },
+          {
+            "word": "しか",
+            "reading": "shika",
+            "meaning": "Rusa"
+          },
+          {
+            "word": "せかい",
+            "reading": "sekai",
+            "meaning": "Dunia"
+          },
+          {
+            "word": "そこ",
+            "reading": "soko",
+            "meaning": "Di Situ"
+          },
+          {
+            "word": "たかい",
+            "reading": "takai",
+            "meaning": "Mahal"
+          },
+          {
+            "word": "ちか",
+            "reading": "chika",
+            "meaning": "Bawah Tanah"
+          },
+          {
+            "word": "くつ",
+            "reading": "kutsu",
+            "meaning": "Sepatu"
+          },
+          {
+            "word": "とき",
+            "reading": "toki",
+            "meaning": "Waktu"
+          },
+          {
+            "word": "て",
+            "reading": "te",
+            "meaning": "Tangan"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis 10 Hiragana baru masing-masing 30 kali. Beri perhatian ekstra pada し, ち, dan つ.",
+          "Tugas Membaca Cepat: Baca kata あさ (asa), すし (sushi), ちか (chika), くつ (kutsu), とき (toki).",
+          "Tugas AI Tutor: Minta AI audio pelafalan 'shi', 'chi', dan 'tsu'."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Pasukan Khusus",
+          "icon": "🛡️",
+          "color": "blue",
+          "children": "Hari ini kita akan mempelajari Aturan Emas Pertama dalam tata bahasa Jepang yang melibatkan salah satu huruf 'pasukan khusus' ini."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'N'",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "な (na): Jembatan Keledai: NAga membuat simpul.",
+                "に (ni): Jembatan Keledai: Jarum dan benang (nitto).",
+                "ぬ (nu): Jembatan Keledai: Mie NUdel kusut.",
+                "ね (ne): Jembatan Keledai: NEko (kucing) meringkuk.",
+                "の (no): Jembatan Keledai: Tanda NO entry."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'H'",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "ひ (hi): Jembatan Keledai: Mulut tersenyum HIHIHI.",
+                "ふ (fu): Pelafalan unik antara 'fu' dan 'hu'. Jembatan Keledai: Gunung FUji.",
+                "へ (he): Jembatan Keledai: Jalan menuju surga (HEaven).",
+                "ほ (ho): Jembatan Keledai: Mirip は yang memakai topi, HO-HO-HO!"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Aturan Emas #1",
+                "text": "Huruf は (ha) jika berfungsi sebagai partikel (penanda topik), ia dibaca 'wa'. Contoh: わたし は (watashi wa)."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "なに",
+            "reading": "nani",
+            "meaning": "Apa"
+          },
+          {
+            "word": "いぬ",
+            "reading": "inu",
+            "meaning": "Anjing"
+          },
+          {
+            "word": "ねこ",
+            "reading": "neko",
+            "meaning": "Kucing"
+          },
+          {
+            "word": "はな",
+            "reading": "hana",
+            "meaning": "Bunga / Hidung"
+          },
+          {
+            "word": "ひと",
+            "reading": "hito",
+            "meaning": "Orang"
+          },
+          {
+            "word": "はし",
+            "reading": "hashi",
+            "meaning": "Sumpit / Jembatan"
+          },
+          {
+            "word": "ふね",
+            "reading": "fune",
+            "meaning": "Kapal"
+          },
+          {
+            "word": "ほね",
+            "reading": "hone",
+            "meaning": "Tulang"
+          },
+          {
+            "word": "へや",
+            "reading": "heya",
+            "meaning": "Kamar"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis 10 Hiragana baru masing-masing 30 kali.",
+          "Tugas Membaca Cepat: Baca kata なに (nani), いぬ (inu), ねこ (neko), はな (hana), ひと (hito).",
+          "Tugas Praktik: Baca 'わたし は Budi です' 10 kali, fokus pada pelafalan 'wa'."
+        ]
+      }
+    ]
+  },
+  "8": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Fase Ekspansi",
+          "icon": "🗺️",
+          "color": "blue",
+          "children": "Anda sudah punya markas utama, sekarang saatnya memperluas wilayah kekuasaan Anda di dunia Hiragana dengan 8 huruf baru."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'M'",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "ま (ma): Jembatan Keledai: Wajah MAnkey (monyet).",
+                "み (mi): Jembatan Keledai: Mirip angka 21, 'ME? I'm 21!'",
+                "む (mu): Jembatan Keledai: Sapi bersuara 'MUUUU'.",
+                "め (me): Jembatan Keledai: Mie (ME) yang tidak kusut (berbeda dari ぬ).",
+                "も (mo): Jembatan Keledai: Kail untuk menangkap MOre fish."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'Y'",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Info",
+                "text": "Baris ini spesial karena hanya punya 3 anggota! Tidak ada suara 'yi' dan 'ye'."
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "や (ya): Jembatan Keledai: Seekor YAk.",
+                "ゆ (yu): Jembatan Keledai: YOU (kamu) sedang menunjuk.",
+                "よ (yo): Jembatan Keledai: Mainan YO-YO."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "やま",
+            "reading": "yama",
+            "meaning": "Gunung"
+          },
+          {
+            "word": "ゆめ",
+            "reading": "yume",
+            "meaning": "Mimpi"
+          },
+          {
+            "word": "よむ",
+            "reading": "yomu",
+            "meaning": "Membaca"
+          },
+          {
+            "word": "みせ",
+            "reading": "mise",
+            "meaning": "Toko"
+          },
+          {
+            "word": "むし",
+            "reading": "mushi",
+            "meaning": "Serangga"
+          },
+          {
+            "word": "まど",
+            "reading": "mado",
+            "meaning": "Jendela"
+          },
+          {
+            "word": "みず",
+            "reading": "mizu",
+            "meaning": "Air"
+          },
+          {
+            "word": "ゆうべ",
+            "reading": "yuube",
+            "meaning": "Tadi Malam"
+          },
+          {
+            "word": "もも",
+            "reading": "momo",
+            "meaning": "Persik"
+          },
+          {
+            "word": "まえ",
+            "reading": "mae",
+            "meaning": "Depan / Sebelum"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis 8 Hiragana baru masing-masing 30 kali. Fokus bedakan ぬ dan め.",
+          "Tugas Membaca Cepat: Baca kata やま (yama), ゆめ (yume), よむ (yomu), みせ (mise), むし (mushi).",
+          "Tugas Kombinasi: Baca kalimat 'これ は やま です。' dengan lantang."
+        ]
+      }
+    ]
+  },
+  "10": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Garis Finis Hiragana!",
+          "icon": "🏁",
+          "color": "blue",
+          "children": "Hari ini adalah hari perayaan. Setelah ini, Anda akan secara resmi memiliki SEMUA 46 kunci dasar Hiragana."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris Konsonan 'R'",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Tips Pelafalan",
+                "text": "Suara 'R' Jepang berada di antara 'R' dan 'L'. Letakkan lidah di belakang gigi atas, ucapkan 'la'."
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "ら (ra): Jembatan Keledai: RAptor mengetik.",
+                "り (ri): Jembatan Keledai: Pita (RIbbon) berkibar.",
+                "る (ru): Jembatan Keledai: Jalan (RUte) dengan simpul.",
+                "れ (re): Jembatan Keledai: Ekor REptil.",
+                "ろ (ro): Jembatan Keledai: Jalan (ROad) tanpa simpul."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris 'W' & Konsonan 'N'",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "わ (wa): Jembatan Keledai: Ombak (WAve).",
+                "ん (n): Satu-satunya konsonan tunggal."
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Aturan Emas #2",
+                "text": "Huruf を (wo) 99.9% dibaca 'o' dan HANYA digunakan sebagai partikel objek. Contoh: ほん を よむ (hon o yomu)."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "さくら",
+            "reading": "sakura",
+            "meaning": "Bunga Sakura"
+          },
+          {
+            "word": "くるま",
+            "reading": "kuruma",
+            "meaning": "Mobil"
+          },
+          {
+            "word": "にほん",
+            "reading": "Nihon",
+            "meaning": "Jepang"
+          },
+          {
+            "word": "とり",
+            "reading": "tori",
+            "meaning": "Burung"
+          },
+          {
+            "word": "しろい",
+            "reading": "shiroi",
+            "meaning": "Putih"
+          },
+          {
+            "word": "くろい",
+            "reading": "kuroi",
+            "meaning": "Hitam"
+          },
+          {
+            "word": "わに",
+            "reading": "wani",
+            "meaning": "Buaya"
+          },
+          {
+            "word": "ほん",
+            "reading": "hon",
+            "meaning": "Buku"
+          },
+          {
+            "word": "はれ",
+            "reading": "hare",
+            "meaning": "Cerah (Cuaca)"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis 8 Hiragana terakhir masing-masing 30 kali.",
+          "Tugas Membaca Perayaan: Baca kata さくら (sakura), くるま (kuruma), にほん (Nihon).",
+          "Tugas Praktik Aturan: Baca kalimat 'ほん を よむ。' dengan pelafalan 'o' yang benar."
+        ]
+      }
+    ]
+  },
+  "12": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Level Up!",
+          "icon": "✨",
+          "color": "purple",
+          "children": "Anda sekarang memegang 46 kunci. Hari ini, kita akan belajar 3 jurus 'alkimia' untuk mengubah beberapa kunci tersebut menjadi kunci baru dengan kekuatan berbeda."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Dakuten (゛) - Suara Berat",
+          "icon": "🔊",
+          "color": "blue",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "K → G (か → が, き → ぎ, dst.)",
+                "S → Z (さ → ざ, し → じ, dst.)",
+                "T → D (た → だ, ち → ぢ, dst.)",
+                "H → B (は → ば, ひ → び, dst.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Handakuten (゜) - Suara Letupan",
+          "icon": "💥",
+          "color": "red",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "H → P (は → ぱ, ひ → ぴ, dst.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Yoon (拗音) - Suara Gabungan",
+          "icon": "🔀",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Menggabungkan Hiragana berakhiran 'i' dengan や, ゆ, atau よ kecil (ゃ, ゅ, ょ) untuk menciptakan suara baru."
+            },
+            {
+              "type": "list",
+              "content": [
+                "き + ゃ = きゃ (kya)",
+                "し + ゅ = しゅ (shu)",
+                "ち + ょ = ちょ (cho)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "でんわ",
+            "reading": "denwa",
+            "meaning": "Telepon"
+          },
+          {
+            "word": "ぎんこう",
+            "reading": "ginkou",
+            "meaning": "Bank"
+          },
+          {
+            "word": "じてんしゃ",
+            "reading": "jitensha",
+            "meaning": "Sepeda"
+          },
+          {
+            "word": "きょう",
+            "reading": "kyou",
+            "meaning": "Hari Ini"
+          },
+          {
+            "word": "べんきょう",
+            "reading": "benkyou",
+            "meaning": "Belajar"
+          },
+          {
+            "word": "おちゃ",
+            "reading": "ocha",
+            "meaning": "Teh Hijau"
+          },
+          {
+            "word": "しゃしん",
+            "reading": "shashin",
+            "meaning": "Foto"
+          },
+          {
+            "word": "えんぴつ",
+            "reading": "enpitsu",
+            "meaning": "Pensil"
+          },
+          {
+            "word": "さんぽ",
+            "reading": "sanpo",
+            "meaning": "Jalan-jalan"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Buat tabel perubahan Dakuten, Handakuten, dan Yoon. Tulis masing-masing kombinasi 10 kali.",
+          "Tugas Membaca Level Up: Baca kata でんわ, ぎんこう, じてんしゃ, きょう, べんきょう.",
+          "Tugas AI Tutor: Minta AI audio pelafalan Yoon: kya, kyu, kyo, sha, shu, sho."
+        ]
+      }
+    ]
+  },
+  "15": {
+    "layoutType": "single",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Fase Konstruksi Kalimat",
+          "icon": "🏗️",
+          "color": "blue",
+          "children": "Anda telah berhasil mengumpulkan semua balok Hiragana. Sekarang, saatnya belajar cara menyusun balok-balok itu menjadi sebuah dinding yang kokoh: kalimat."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Membedah Pola A は B です",
+          "icon": "🛠️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Pola ini secara sederhana berarti 'A adalah B'."
+            },
+            {
+              "type": "list",
+              "content": [
+                "A: Topik kalimat (misal: わたし - saya).",
+                "は (wa): Partikel Penanda Topik.",
+                "B: Deskripsi topik (misal: がくせい - siswa).",
+                "です (desu): Penanda Kesopanan di akhir kalimat."
+              ]
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh Lengkap",
+                "text": "わたし は がくせい です。\nArtinya: 'Saya adalah seorang siswa.'"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Penerapan: Perkenalan Diri (自己紹介)",
+          "icon": "👋",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "わたし は [Nama Anda] です。",
+                "わたし は インドネシアじん です。(Saya orang Indonesia.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "vocab",
+        "content": [
+          {
+            "word": "わたし",
+            "reading": "watashi",
+            "meaning": "Saya"
+          },
+          {
+            "word": "がくせい",
+            "reading": "gakusei",
+            "meaning": "Siswa"
+          },
+          {
+            "word": "かいしゃいん",
+            "reading": "kaishayin",
+            "meaning": "Karyawan"
+          },
+          {
+            "word": "せんせい",
+            "reading": "sensei",
+            "meaning": "Guru"
+          },
+          {
+            "word": "いしゃ",
+            "reading": "isha",
+            "meaning": "Dokter"
+          },
+          {
+            "word": "エンジニア",
+            "reading": "enjinia",
+            "meaning": "Insinyur"
+          }
+        ]
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin 'わたし は がくせい です' dan 'これ は ほんです' masing-masing 5 kali.",
+          "Tugas Membuat Kalimat: Buat 3 kalimat perkenalan diri (nama, kebangsaan, profesi 'かいしゃいん').",
+          "Tugas Praktik Berbicara: Ucapkan 3 kalimat perkenalan Anda di depan cermin 10 kali."
+        ]
+      }
+    ]
+  },
+  "17": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Percakapan Dua Arah",
+          "icon": "💬",
+          "color": "blue",
+          "children": "Anda sudah bisa menyatakan sebuah fakta. Hari ini, kita akan belajar cara menyangkal ('bukan') dan bertanya ('apakah?')."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Jurus Menyangkal - じゃありません",
+          "icon": "🚫",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk membuat kalimat negatif, ganti です dengan じゃありません."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh Negatif",
+                "text": "Positif: わたし は がくせい です。\nNegatif: わたし は がくせい じゃありません。"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Jurus Bertanya - Partikel か",
+          "icon": "❓",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk membuat kalimat tanya, cukup tambahkan か di akhir kalimat."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh Pertanyaan",
+                "text": "Pernyataan: やまださん は せんせい です。\nPertanyaan: やまださん は せんせい ですか。"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "Jawaban 'Ya': はい、そうです。 (Hai, sou desu.)",
+                "Jawaban 'Tidak': いいえ、そうじゃありません。 (Iie, sou ja arimasen.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis pasangan kalimat positif-negatif dan pernyataan-tanya masing-masing 5 kali.",
+          "Tugas Transformasi: Ubah kalimat 'すずきさん は かいしゃいん です' menjadi negatif dan tanya.",
+          "Tugas Praktik (Roleplay): Lakukan tanya jawab 'あなた は がくせい ですか。'"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Interaksi Dunia Nyata",
+          "icon": "🌍",
+          "color": "blue",
+          "children": "Hari ini, kita akan belajar cara menunjuk benda secara spesifik: ini, itu (dekatmu), dan itu (jauh). Ini adalah skill bertahan hidup dalam percakapan."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Tiga Serangkai Kata Tunjuk",
+          "icon": "👉",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "これ (kore): INI (dekat Anda sebagai pembicara).",
+                "それ (sore): ITU (dekat teman bicara Anda).",
+                "あれ (are): ITU (JAUH dari Anda dan teman bicara)."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Kata Tanya: なん (nan)",
+          "icon": "❔",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menanyakan 'apa?', kita menggunakan kata なん (nan)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Kalimat Tanya",
+                "text": "これ は なん ですか。\nArtinya: 'Apa ini?'"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis pasangan tanya-jawab 'これ は なん ですか。' - 'それ は とけい です。' sebanyak 5 kali.",
+          "Tugas Membuat Kalimat: Buat kalimat tanya-jawab untuk 1 benda dekat dan 1 benda jauh di sekitar Anda.",
+          "Tugas Praktik Dunia Nyata: Tunjuk 5 benda di sekitar Anda, tanyakan 'Kore wa nan desu ka?', lalu jawab sendiri."
+        ]
+      }
+    ]
+  },
+  "22": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Menambahkan Detail",
+          "icon": "✨",
+          "color": "blue",
+          "children": "Hari ini, kita akan mempelajari partikel paling serbaguna untuk membuat kalimat Anda lebih spesifik dan personal: partikel の (no) untuk kepemilikan."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Partikel Kepemilikan の (no)",
+          "icon": "🔗",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Partikel の (no) berfungsi untuk menunjukkan kepemilikan. Pola: [Pemilik] の [Benda]."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "これ は わたし の ほん です。\nArtinya: 'Ini adalah buku milik saya.'"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Kata Tanya: だれ (dare)",
+          "icon": "👤",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menanyakan 'siapa?', kita gunakan だれ (dare). Gabungkan dengan の untuk menanyakan kepemilikan."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Pertanyaan",
+                "text": "これ は だれ の かさ ですか。\nArtinya: 'Ini payung milik siapa?'"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin kalimat-kalimat contoh kepemilikan sebanyak 5 kali.",
+          "Tugas Membuat Kalimat: Buat 3 kalimat menggunakan partikel の tentang barang-barang di sekitar Anda.",
+          "Tugas Praktik (Tanya Jawab): Tunjuk 3 benda milik Anda, tanyakan 'milik siapa?', dan jawab sendiri."
+        ]
+      }
+    ]
+  },
+  "24": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Alfabet Kedua: Katakana",
+          "icon": "🅰️",
+          "color": "blue",
+          "children": "Katakana digunakan untuk kata serapan asing, nama, dan penekanan. Bentuknya kaku, tajam, dan bersudut."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris A & KA",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "ア (a), イ (i), ウ (u), エ (e), オ (o)",
+                "カ (ka), キ (ki), ク (ku), ケ (ke), コ (ko)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris SA & TA",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "サ (sa), シ (shi), ス (su), セ (se), ソ (so)",
+                "タ (ta), チ (chi), ツ (tsu), テ (te), ト (to)"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Perbedaan Kritis!",
+                "text": "シ (shi) goresannya dari bawah ke atas, sedangkan ツ (tsu) dari atas ke bawah."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis 20 karakter Katakana baru masing-masing 30 kali. Buat kolom perbandingan untuk シ vs ツ.",
+          "Tugas Membaca Katakana: Baca kata 'カメラ', 'タクシー', 'テスト', 'ケーキ', 'サッカー'.",
+          "Tugas Identifikasi: Cari merek asing di sekitar Anda dan coba bayangkan tulisannya dalam Katakana."
+        ]
+      }
+    ]
+  },
+  "26": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Garis Finis Katakana!",
+          "icon": "🏁",
+          "color": "blue",
+          "children": "Setelah hari ini, Anda akan resmi menguasai Hiragana dan Katakana. Perhatikan kemiripan antar karakter!"
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris NA s/d MA",
+          "icon": " vocalia",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "ナ (na), ニ (ni), ヌ (nu), ネ (ne), ノ (no)",
+                "ハ (ha), ヒ (hi), フ (fu), ヘ (he), ホ (ho)",
+                "マ (ma), ミ (mi), ム (mu), メ (me), モ (mo)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Baris YA s/d N",
+          "icon": "konsonan",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "ヤ (ya), ユ (yu), ヨ (yo)",
+                "ラ (ra), リ (ri), ル (ru), レ (re), ロ (ro)",
+                "ワ (wa), ヲ (wo), ン (n)"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Perbedaan Kritis!",
+                "text": "ソ (so) goresannya dari atas ke bawah, sedangkan ン (n) dari bawah ke atas."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Aturan Tambahan",
+          "icon": " नियम",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Aturan Dakuten, Handakuten, dan Yoon SAMA PERSIS seperti Hiragana."
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Vokal Panjang",
+                "text": "Gunakan tanda strip (ー). Contoh: コーヒー (koohii)."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis sisa karakter Katakana masing-masing 30 kali. Buat catatan khusus untuk ソ vs ン.",
+          "Tugas Membaca Katakana: Baca kata 'パン', 'ラーメン', 'ホテル', 'インドネシア', 'メニュー'.",
+          "Tugas Praktik: Coba tulis nama lengkap Anda dalam Katakana."
+        ]
+      }
+    ]
+  },
+  "29": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Review & Pemanasan",
+          "icon": "💪",
+          "color": "blue",
+          "children": "SELAMAT! ANDA TELAH MENCAPAI AKHIR BULAN PERTAMA!\n\nIni bukan kuis, ini adalah sesi latihan dan pemanasan. Tujuannya adalah untuk menghubungkan semua titik-titik yang telah Anda pelajari selama 28 hari terakhir."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 1: Latihan Membaca",
+          "icon": "🗣️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Baca paragraf perkenalan diri di bawah ini dengan lantang. Setelah berhasil, coba terjemahkan."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Paragraf Latihan",
+                "text": "はじめまして。\nわたし は マリア です。わたし は インドネシア の がくせい です。\nこれ は わたし の ノート です。それ は スミスさん の じしょ ですか。\nスミスさん は アメリカ の せんせい です。\nかれ は えいご の せんせい じゃありません。にほんご の せんせい です。\nどうぞ よろしく。"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 2: Latihan Menulis",
+          "icon": "✍️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Terjemahkan kalimat-kalimat di bawah ini ke dalam tulisan Jepang (Hiragana & Katakana) yang lengkap."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Halo. Nama saya Budi. (gunakan pola: Saya adalah Budi)",
+                "Ini adalah kamera milik Sdr. Tanaka.",
+                "Apakah itu (jauh) hotel? (hotel = ホテル)",
+                "Itu (dekat lawan bicara) bukan kopi. Itu adalah teh. (kopi = コーヒー, teh = おちゃ)",
+                "Restoran ini milik siapa? (restoran ini = この レストラン)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 3: Pemanasan Keterampilan",
+          "icon": "🧠",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Lihat sekeliling Anda dan lakukan 3 hal ini dengan cepat:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "Tunjuk satu benda dan tanyakan dalam hati, 'これ は なん ですか。'",
+                "Bayangkan benda itu milik teman Anda, lalu katakan, 'それ は [nama teman] の です。'",
+                "Tulis nama salah satu merek terkenal yang Anda lihat dalam Katakana."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Review: Baca ulang paragraf latihan di atas dengan lantang sampai lancar.",
+          "Tugas Menulis: Selesaikan terjemahan 5 kalimat di Sesi 2 dan tulis di buku catatan Anda.",
+          "Tugas Praktik: Lakukan 3 tantangan pemanasan keterampilan di Sesi 3 dan catat hasilnya."
+        ]
+      }
+    ]
+  },
+  "31": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Selamat Datang di Bulan Kedua!",
+          "icon": "🚀",
+          "color": "blue",
+          "children": "Anda telah menyelesaikan fondasi. Kini saatnya membuat bahasa Jepang Anda 'hidup' dengan mempelajari 'mesin' utama dari semua aksi: Kata Kerja (動詞 - doushi)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk Kamus vs. Bentuk Sopan",
+          "icon": "🔄",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Setiap kata kerja memiliki dua bentuk dasar:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "Bentuk Kamus (Jishokei): Bentuk dasar di kamus, selalu berakhiran '~u'. Contoh: taberu (makan), nomu (minum).",
+                "Bentuk Sopan (Masu-kei): Bentuk untuk percakapan sopan. Inilah fokus utama kita. Contoh: tabemasu, nomimasu."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Grup 1 (Godan / U-verbs)",
+          "icon": "📚",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ciri: Tidak berakhiran '-eru' atau '-iru'. Bunyi '~u' di akhir diubah menjadi '~i' lalu ditambah 'masu'."
+            },
+            {
+              "type": "list",
+              "content": [
+                "nomu → nomi + masu → nomimasu",
+                "iku → iki + masu → ikimasu",
+                "kau → kai + masu → kaimasu"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Grup 2 (Ichidan / Ru-verbs)",
+          "icon": "📚",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ciri: Berakhiran '-eru' atau '-iru'. Cukup hilangkan '~ru' di akhir, lalu tambah 'masu'."
+            },
+            {
+              "type": "list",
+              "content": [
+                "taberu → tabe + masu → tabemasu",
+                "miru → mi + masu → mimasu",
+                "neru → ne + masu → nemasu"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Grup 3 (Irregular)",
+          "icon": "⚠️",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Hanya ada DUA kata kerja utama di grup ini yang wajib dihafal mati."
+            },
+            {
+              "type": "list",
+              "content": [
+                "kuru (datang) → kimasu",
+                "suru (melakukan) → shimasu"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Catatan",
+                "text": "Ada beberapa kata kerja Grup 1 yang 'menyamar' seperti Grup 2 (contoh: hairu, hashiru). Ini adalah pengecualian yang akan dipelajari nanti."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Drill Identifikasi Grup Kata Kerja",
+          "icon": "🎯",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Latih mata Anda untuk langsung mengenali grup kata kerja. Tentukan grupnya, lalu cek jawabannya!"
+            },
+            {
+              "type": "subtitle",
+              "content": "Latihan 1: Kata Kerja Umum"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Tentukan Grupnya",
+                "text": "1. のむ (nomu) = minum\n2. たべる (taberu) = makan\n3. する (suru) = melakukan\n4. かく (kaku) = menulis\n5. みる (miru) = melihat"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: 1.Grup 1 (tidak -eru/-iru) | 2.Grup 2 (-eru) | 3.Grup 3 (irregular) | 4.Grup 1 (tidak -eru/-iru) | 5.Grup 2 (-iru)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Latihan 2: Kata Kerja Lanjutan"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Tentukan Grupnya",
+                "text": "6. くる (kuru) = datang\n7. ねる (neru) = tidur\n8. きく (kiku) = mendengar\n9. おきる (okiru) = bangun\n10. よむ (yomu) = membaca"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: 6.Grup 3 (irregular) | 7.Grup 2 (-eru) | 8.Grup 1 (tidak -eru/-iru) | 9.Grup 2 (-iru) | 10.Grup 1 (tidak -eru/-iru)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Latihan 3: Kata Kerja Jebakan!"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "HATI-HATI! Ini yang sering salah",
+                "text": "11. はしる (hashiru) = berlari → ?\n12. かえる (kaeru) = pulang → ?\n13. はいる (hairu) = masuk → ?\n14. きる (kiru) = memotong → ?"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: SEMUA adalah Grup 1! Ini 'penyamar' yang terlihat seperti Grup 2 tapi bukan. Cara menghafal: hashiru, kaeru, hairu, kiru = pengecualian Grup 1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Praktik Mandiri: Tutup jawaban, kerjakan ulang 14 kata kerja di atas sampai lancar.",
+          "Tugas Konjugasi: Ubah 5 kata kerja favorit Anda ke bentuk -masu. Contoh: のむ → のみます",
+          "Tugas AI Tutor: Minta AI untuk memberikan 10 kata kerja N5 baru dalam bentuk kamus dan tebak grupnya."
+        ]
+      }
+    ]
+  },
+  "33": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Dua Pilar Pertama: Bentuk Positif",
+          "icon": "✅",
+          "color": "blue",
+          "children": "Anda sudah mengenal grup kata kerja. Sekarang saatnya membuat kata kerja itu 'beraksi'! Hari ini kita pelajari dua dari empat pilar konjugasi: bentuk -masu (sekarang/masa depan) dan -mashita (lampau)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk -ます (Sekarang/Masa Depan)",
+          "icon": "⏰",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Bentuk -masu digunakan untuk aksi yang terjadi sekarang, rutin, atau akan terjadi di masa depan."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Konjugasi per Grup",
+                "text": "Grup 1: ubah akhiran 'u' → 'i' + masu\nGrup 2: hilangkan 'ru' + masu\nGrup 3: kuru→kimasu, suru→shimasu"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "のむ (nomu) → のみます (nomimasu) - minum",
+                "たべる (taberu) → たべます (tabemasu) - makan",
+                "する (suru) → します (shimasu) - melakukan"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk -ました (Lampau Positif)",
+          "icon": "⏪",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menyatakan aksi yang SUDAH terjadi (telah melakukan), ganti '-masu' menjadi '-mashita'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Perubahan",
+                "text": "-ます → -ました"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "たべます (tabemasu) → たべました (tabemashita) - telah makan",
+                "のみます (nomimasu) → のみました (nomimashita) - telah minum",
+                "いきます (ikimasu) → いきました (ikimashita) - telah pergi"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh dalam Kalimat",
+          "icon": "💬",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Perhatikan penggunaan keterangan waktu untuk memperjelas makna."
+            },
+            {
+              "type": "list",
+              "content": [
+                "まいにち、コーヒー を のみます。(Setiap hari, saya minum kopi.)",
+                "あした、えいが を みます。(Besok, saya akan menonton film.)",
+                "きのう、ほん を よみました。(Kemarin, saya telah membaca buku.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Drill Konjugasi Bentuk Positif",
+          "icon": "🎯",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Latihan: Ubah kata kerja berikut ke bentuk -masu dan -mashita!"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Latihan",
+                "text": "1. かく (kaku) = menulis → ? / ?\n2. みる (miru) = melihat → ? / ?\n3. くる (kuru) = datang → ? / ?\n4. きく (kiku) = mendengar → ? / ?\n5. おきる (okiru) = bangun → ? / ?"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: 1. かきます/かきました | 2. みます/みました | 3. きます/きました | 4. ききます/ききました | 5. おきます/おきました"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Praktik Mandiri: Tutup jawaban di atas, kerjakan ulang 5 kata kerja sampai lancar.",
+          "Tugas Membuat Kalimat: Buat 2 kalimat tentang rutinitas harian (pakai -masu) dan 2 kalimat tentang kemarin (pakai -mashita).",
+          "Tugas AI Tutor: Minta AI untuk memberikan 5 kata kerja N5 dan latih konjugasi ke bentuk -masu/-mashita."
+        ]
+      }
+    ]
+  },
+  "35": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Dua Pilar Terakhir: Bentuk Negatif",
+          "icon": "🚫",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'Saya makan' dan 'Saya telah makan'. Sekarang lengkapi 4 pilar dengan belajar 'Saya tidak makan' (-masen) dan 'Saya tidak makan kemarin' (-masen deshita)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk -ません (Tidak/Akan Tidak)",
+          "icon": "⏰",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menyatakan aksi negatif (tidak melakukan saat ini atau di masa depan), ganti akhiran '-masu' menjadi '-masen'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Perubahan",
+                "text": "-ます → -ません"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "たべます (tabemasu) → たべません (tabemasen) - tidak makan",
+                "のみます (nomimasu) → のみません (nomimasen) - tidak minum",
+                "いきます (ikimasu) → いきません (ikimasen) - tidak pergi"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk -ませんでした (Telah Tidak)",
+          "icon": "⏪",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menyatakan aksi negatif di masa lampau (telah tidak melakukan), ganti '-masu' menjadi '-masen deshita'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Perubahan",
+                "text": "-ます → -ませんでした"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "たべます → たべませんでした (tabemasen deshita) - tidak makan (kemarin)",
+                "のみます → のみませんでした (nomimasen deshita) - tidak minum (kemarin)",
+                "いきます → いきませんでした (ikimasen deshita) - tidak pergi (kemarin)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Rangkuman 4 Pilar Konjugasi",
+          "icon": "🏛️",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Sekarang Anda menguasai 4 pilar lengkap!"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Tabel 4 Pilar (たべる)",
+                "text": "✅ Positif Sekarang: たべます (makan)\n✅ Positif Lampau: たべました (telah makan)\n❌ Negatif Sekarang: たべません (tidak makan)\n❌ Negatif Lampau: たべませんでした (tidak makan kemarin)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Drill Konjugasi Bentuk Negatif",
+          "icon": "🎯",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Latihan: Ubah kata kerja berikut ke bentuk -masen dan -masen deshita!"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Latihan",
+                "text": "1. かきます (kakimasu) = menulis → ? / ?\n2. みます (mimasu) = melihat → ? / ?\n3. きます (kimasu) = datang → ? / ?\n4. ききます (kikimasu) = mendengar → ? / ?\n5. べんきょうします = belajar → ? / ?"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: 1. かきません/かきませんでした | 2. みません/みませんでした | 3. きません/きませんでした | 4. ききません/ききませんでした | 5. べんきょうしません/べんきょうしませんでした"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Praktik Mandiri: Tutup jawaban, kerjakan ulang 5 kata kerja di atas sampai lancar.",
+          "Tugas Membuat Kalimat: Buat 2 kalimat negatif sekarang dan 2 kalimat negatif lampau tentang aktivitas Anda.",
+          "Tugas AI Tutor: Minta AI untuk memberikan 5 kata kerja dan latih konjugasi ke SEMUA 4 pilar (-masu, -mashita, -masen, -masen deshita)."
+        ]
+      }
+    ]
+  },
+  "38": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Menentukan Target Aksi",
+          "icon": "🎯",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan たべます (makan), tapi makan *apa*? Hari ini kita akan menjawabnya dengan mempelajari partikel を (o), sang 'penanda target' aksi."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Apa itu Objek Langsung?",
+          "icon": "🔍",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Objek langsung adalah benda atau orang yang 'dikenai' pekerjaan oleh kata kerja."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Dalam 'Saya membaca **buku**', **buku** adalah objeknya.",
+                "Dalam 'Dia minum **kopi**', **kopi** adalah objeknya."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Partikel Objek を (o)",
+          "icon": "🔖",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Fungsi utama を adalah menandai kata benda sebagai objek langsung dari kata kerja."
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Aturan Emas #2 (Ingat!)",
+                "text": "Huruf を selalu dibaca 'o', sama seperti お."
+              }
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Kalimat",
+                "text": "Subjek は Objek を Kata Kerja-masu."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Penggunaan",
+          "icon": "💬",
+          "color": "purple",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "わたし は ごはん を たべます。(Saya makan nasi.)",
+                "わたし は ジュース を のみます。(Saya minum jus.)",
+                "きのう、えいが を みました。(Kemarin, saya telah menonton film.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin kalimat 'わたし は ほん を よみます。' dan 'きのう、パン を かいました。' masing-masing 5 kali.",
+          "Tugas Membuat Kalimat: Buat kalimat menggunakan pasangan: (さかな, たべます), (みず, のみました), dan (しゅくだい, します).",
+          "Tugas Praktik Berbicara: Ucapkan kalimat-kalimat yang baru saja Anda buat dengan lantang."
+        ]
+      }
+    ]
+  },
+  "40": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Navigasi Waktu & Tujuan",
+          "icon": "🧭",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'Saya pergi'. Tapi pergi *ke mana*? Dan *kapan*? Hari ini, kita akan menjawab pertanyaan-pertanyaan krusial tersebut dengan partikel に (ni)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Fungsi 1: Penanda Waktu Spesifik",
+          "icon": "⏰",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Partikel に digunakan setelah keterangan waktu yang spesifik untuk menandakan kapan sebuah aksi terjadi. Anggap に sebagai 'pada' dalam konteks waktu."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola & Contoh",
+                "text": "Waktu Spesifik に Aksi.\n７じ に おきます。(Saya bangun pada jam 7.)"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Aturan Penting!",
+                "text": "JANGAN gunakan に untuk hari-hari relatif seperti きのう (kemarin), きょう (hari ini), あした (besok)."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Fungsi 2: Penanda Tujuan Gerakan",
+          "icon": "➡️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Partikel に juga digunakan untuk menandai tujuan/destinasi dari kata kerja gerakan seperti いきます (pergi), きます (datang), dan かえります (pulang). Anggap に sebagai 'ke'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola & Contoh",
+                "text": "Tujuan に Kata Kerja Gerakan.\nがっこう に いきます。(Pergi ke sekolah.)\nうち に かえります。(Pulang ke rumah.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin kalimat 'わたし は ６じ に おきます。' dan 'かれ は スーパー に いきました。' masing-masing 5 kali.",
+          "Tugas Membuat Kalimat: Buat 1 kalimat kapan Anda tidur (ねます), 1 kalimat Anda akan pergi ke stasiun (えき), dan gabungkan keduanya (pergi ke stasiun pada jam 8).",
+          "Tugas Praktik Berbicara: Ucapkan kalimat-kalimat yang baru saja Anda buat dengan lantang."
+        ]
+      }
+    ]
+  },
+  "42": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Lokasi Aksi & Alat",
+          "icon": "📍",
+          "color": "blue",
+          "children": "Anda sudah tahu cara pergi 'ke' sekolah (に). Hari ini, kita akan belajar cara belajar 'di' sekolah dengan partikel で (de)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Fungsi 1: Penanda Lokasi Aksi",
+          "icon": "🏢",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Gunakan で setelah nama tempat untuk menjelaskan di mana sebuah aksi (kata kerja) berlangsung. Anggap で sebagai 'di' dalam konteks 'melakukan sesuatu di...'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola & Contoh",
+                "text": "Lokasi で Aksi.\nレストラン で ごはん を たべます。\n(Makan nasi di restoran.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Fungsi 2: Penanda Alat/Cara",
+          "icon": "🛠️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Gunakan で untuk menandai alat, metode, atau cara yang digunakan untuk melakukan aksi. Anggap で sebagai 'dengan' atau 'menggunakan'."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola & Contoh",
+                "text": "Alat で Aksi.\nバス で いきます。(Pergi dengan bus.)\nはし で たべます。(Makan dengan sumpit.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Perbedaan Kunci: に vs で",
+          "icon": "❓",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ini adalah salah satu kebingungan paling umum. Ingat ini:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "に (ni): Fokus pada **keberadaan** atau **tujuan**. (Saya ada di rumah. / Saya pergi ke rumah.)",
+                "で (de): Fokus pada **aktivitas** yang terjadi di sebuah lokasi. (Saya belajar di rumah.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin kalimat 'としょかん で ほん を よみます。' dan 'でんしゃ で かいしゃ へ いきます。' masing-masing 5 kali.",
+          "Tugas Membuat Kalimat: Buat kalimat untuk aksi: makan di..., pergi dengan..., dan menulis dengan....",
+          "Tugas Praktik: Latih tanya jawab: 'どこ で たべますか。' (Makan di mana?) - 'レストラン で たべます。'"
+        ]
+      }
+    ]
+  },
+  "45": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Mewarnai Dunia Anda",
+          "icon": "🎨",
+          "color": "blue",
+          "children": "Anda sudah bisa membuat kalimat aksi. Sekarang saatnya menjadi 'desainer interior' bahasa Jepang Anda dengan belajar mendeskripsikan dunia menggunakan Kata Sifat."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Apa itu Kata Sifat-い?",
+          "icon": "📚",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ini adalah kelompok kata sifat yang dalam bentuk dasarnya (bentuk kamus) selalu berakhiran dengan vokal い (i)."
+            },
+            {
+              "type": "list",
+              "content": [
+                "あたらしい (atarashii) - baru",
+                "ふるい (furui) - lama/tua",
+                "おおきい (ookii) - besar",
+                "ちいさい (chiisai) - kecil",
+                "たかい (takai) - mahal / tinggi",
+                "やすい (yasui) - murah"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Dua Cara Penggunaan",
+          "icon": "🛠️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "1. Langsung di depan Kata Benda"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [KS-い] [KB]",
+                "text": "あたらしい くるま (mobil baru)\nこれ は あたらしい くるま です。"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "2. Sebagai Predikat di Akhir Kalimat"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [Topik] は [KS-い] です",
+                "text": "この くるま は あたらしい です。\n(Mobil ini baru.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Konjugasi Negatif",
+          "icon": "🔄",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk membuat bentuk negatif ('tidak...'), hilangkan い di akhir dan tambahkan くない です (kunai desu)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [...-い] → [...-くない です]",
+                "text": "atarashii → atarashikunai desu\ntakai → takakunai desu"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin pasangan kalimat: 'これ は おおきい かばん です。' -> 'この かばん は おおきい です。' sebanyak 5 kali.",
+          "Tugas Konjugasi: Ubah kata sifat 'ふるい', 'ちいさい', dan 'おもしろい' ke bentuk negatifnya.",
+          "Tugas Membuat Kalimat: Buat 1 kalimat positif ('Meja ini besar') dan 1 kalimat negatif ('Buku itu tidak murah') tentang benda di sekitar Anda."
+        ]
+      }
+    ]
+  },
+  "47": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Deskripsi Elegan",
+          "icon": "💎",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'mobil baru'. Hari ini, kita akan belajar mengatakan 'kota yang tenang' dengan kelompok kata sifat kedua: Kata Sifat-な (Na-Adjective)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Apa itu Kata Sifat-な?",
+          "icon": "📚",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ini adalah kelompok kata sifat yang dalam bentuk kamusnya TIDAK berakhiran い. Konjugasinya mirip dengan kata benda."
+            },
+            {
+              "type": "list",
+              "content": [
+                "しずか (shizuka) - tenang",
+                "きれい (kirei) - cantik / bersih",
+                "ゆうめい (yuumei) - terkenal",
+                "しんせつ (shinsetsu) - ramah",
+                "げんき (genki) - sehat/bersemangat"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Penting!",
+                "text": "Kata seperti 'kirei' dan 'yuumei' berakhiran 'e-i', bukan 'i', sehingga mereka termasuk Kata Sifat-な."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Dua Aturan Penggunaan",
+          "icon": "🛠️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "1. Menerangkan Kata Benda"
+            },
+            {
+              "type": "paragraph",
+              "content": "HARUS menambahkan な (na) di antara kata sifat dan kata benda."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [KS-な] な [KB]",
+                "text": "しずか な まち (kota yang tenang)\nきれい な ひと (orang yang cantik)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "2. Sebagai Predikat Kalimat"
+            },
+            {
+              "type": "paragraph",
+              "content": "TIDAK menggunakan な. Langsung diikuti です."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [Topik] は [KS-な] です",
+                "text": "この まち は しずか です。\n(Kota ini tenang.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Konjugasi Negatif",
+          "icon": "🔄",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Sama persis seperti kata benda. Ganti です (desu) dengan じゃありません (ja arimasen)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [KS-な] じゃありません",
+                "text": "shizuka desu → shizuka ja arimasen\nkirei desu → kirei ja arimasen"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin pasangan kalimat: 'これ は ゆうめい な レストラン です。' -> 'この レストラン は ゆうめい です。' sebanyak 5 kali.",
+          "Tugas Konjugasi: Ubah kata sifat 'げんき です', 'すき です', 'べんり です' ke bentuk negatifnya.",
+          "Tugas Membuat Kalimat: Buat 1 kalimat untuk menerangkan kata benda ('Kyoto adalah kota yang indah') dan 1 kalimat sebagai predikat ('Kamar saya tidak bersih')."
+        ]
+      }
+    ]
+  },
+  "49": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Jurus Kombinasi",
+          "icon": "🔗",
+          "color": "blue",
+          "children": "Anda sudah bisa mendeskripsikan dengan satu kata sifat. Hari ini, kita akan belajar cara mengatakan 'baru dan mahal' atau 'tenang dan bersih' dengan menggabungkan beberapa kata sifat."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Menggabungkan Kata Sifat-い",
+          "icon": "🎨",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menggabungkan Kata Sifat-い, ubah semua kata sifat kecuali yang terakhir. Hilangkan akhiran い dan tambahkan くて (kute)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [...-い] → [...-くて]",
+                "text": "おおきい → おおきくて\nやすい → やすくて"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Contoh Kalimat",
+                "text": "この かばん は おおきくて、かるい です。\n(Tas ini besar dan ringan.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Menggabungkan Kata Sifat-な",
+          "icon": "🎨",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menggabungkan Kata Sifat-な, tambahkan で (de) setelah semua kata sifat kecuali yang terakhir."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [KS-な] → [KS-な] で",
+                "text": "しずか → しずか で\nきれい → きれい で"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Contoh Kalimat",
+                "text": "さとうさん は しんせつで、げんき です。\n(Sdr. Sato ramah dan bersemangat.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Menggabungkan Tipe Campuran",
+          "icon": "🔄",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Saat menggabungkan tipe campuran, selalu ikuti aturan dari kata sifat yang pertama."
+            },
+            {
+              "type": "list",
+              "content": [
+                "KS-い + KS-な: この へや は ひろくて、きれい です。(Kamar ini luas dan bersih.)",
+                "KS-な + KS-い: かれ は ゆうめいで、おもしろい ひと です。(Dia (lk) terkenal dan menarik.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Salin kalimat 'にほん の たべもの は おいしくて、やすい です。' dan 'あの レストラン は しずかで、ゆうめい です。' masing-masing 5 kali.",
+          "Tugas Konjugasi & Gabung: Gabungkan pasangan kata sifat: (たかい + おおきい), (げんき + しんせつ), (あたらしい + きれい).",
+          "Tugas Membuat Kalimat: Buat 1 kalimat untuk mendeskripsikan kota Anda dan 1 kalimat untuk teman Anda, masing-masing menggunakan dua kata sifat."
+        ]
+      }
+    ]
+  },
+  "52": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Dunia Kuantitas",
+          "icon": "🔢",
+          "color": "blue",
+          "children": "Selamat datang di fase kuantifikasi! Hari ini kita akan belajar 'furnitur' fungsional dalam bahasa Jepang: Angka. Menguasai ini adalah skill bertahan hidup absolut."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Angka Sino-Jepang (1-10)",
+          "icon": "📚",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Sistem ini digunakan untuk hampir semua hal (jam, tanggal, uang). Angka 1-10 wajib dihafal."
+            },
+            {
+              "type": "list",
+              "content": [
+                "1: いち (ichi)",
+                "2: に (ni)",
+                "3: さん (san)",
+                "4: し (shi) / よん (yon) → 'yon' lebih umum",
+                "5: ご (go)",
+                "6: ろく (roku)",
+                "7: しち (shichi) / なな (nana) → 'nana' lebih umum",
+                "8: はち (hachi)",
+                "9: く (ku) / きゅう (kyuu) → 'kyuu' lebih umum",
+                "10: じゅう (juu)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Angka Sino-Jepang (11-100)",
+          "icon": "📈",
+          "color": "orange",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "Angka Belasan (11-19)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Logikanya adalah '10 + Angka'. Contoh: 11 → じゅういち (juu-ichi), 14 → じゅうよん (juu-yon)."
+            },
+            {
+              "type": "subtitle",
+              "content": "Angka Puluhan (20, 30, ...)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Logikanya adalah 'Angka x 10'. Contoh: 20 → にじゅう (ni-juu), 50 → ごじゅう (go-juu)."
+            },
+            {
+              "type": "subtitle",
+              "content": "Angka Gabungan"
+            },
+            {
+              "type": "paragraph",
+              "content": "Gabungkan saja logikanya. Contoh: 25 → にじゅうご (ni-juu go), 47 → よんじゅうなな (yon-juu nana)."
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Counter Umum 〜つ",
+          "icon": "🍎",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Sistem angka asli Jepang ini digunakan untuk menghitung benda secara umum hingga 10 buah tanpa kata satuan spesifik."
+            },
+            {
+              "type": "list",
+              "content": [
+                "1 buah: ひとつ (hitotsu)",
+                "2 buah: ふたつ (futatsu)",
+                "3 buah: みっつ (mittsu)",
+                "4 buah: よっつ (yottsu)",
+                "5 buah: いつつ (itsutsu)",
+                "...dan seterusnya."
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Kata Tanya",
+                "text": "Gunakan いくつ (ikutsu) untuk bertanya 'Berapa buah?'"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis angka 1-10 dalam Hiragana menggunakan kedua sistem (Sino-Jepang & Asli Jepang) masing-masing 10 kali.",
+          "Tugas Praktik Berhitung: Berhitunglah dari 1 sampai 30 dengan suara keras. Lalu hitung ada berapa kursi (いす) di sekitar Anda menggunakan sistem 〜つ.",
+          "Tugas AI Tutor: Minta AI untuk memberikan audio pelafalan angka 4, 7, dan 9 untuk mendengar perbedaannya."
+        ]
+      }
+    ]
+  },
+  "54": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Mengatur Jadwal Anda",
+          "icon": "⏰",
+          "color": "blue",
+          "children": "Anda sudah bisa berhitung. Sekarang, mari gunakan kemampuan itu untuk menyatakan waktu. Ini adalah skill krusial untuk membuat janji, membaca jadwal, dan mengatur kegiatan harian Anda di Jepang."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Menyatakan Jam (時 - ji)",
+          "icon": "🕒",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk menyatakan jam, cukup tambahkan じ (ji) setelah angka. Namun, ada beberapa pengecualian yang harus dihafal!"
+            },
+            {
+              "type": "list",
+              "content": [
+                "1時 (いちじ) - ichiji",
+                "2時 (にじ) - niji",
+                "5時 (ごじ) - goji"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Pengecualian Penting!",
+                "text": "4時: よじ (yoji) - BUKAN yonji\n7時: しちじ (shichiji) - BUKAN nanaji\n9時: くじ (kuji) - BUKAN kyuuji"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Menyatakan Menit (分 - fun/pun)",
+          "icon": "⏱️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Menit dibaca ふん (fun) atau ぷん (pun) tergantung angka terakhirnya. Ini adalah bagian yang paling rumit."
+            },
+            {
+              "type": "subtitle",
+              "content": "Aturan Dasar:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "Berakhiran 2, 5, 7, 9 → ふん (fun)",
+                "Berakhiran 1, 3, 4, 6, 8, 0 → ぷん (pun) dengan sedikit perubahan bunyi."
+              ]
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "2分: にふん (ni-fun)\n5分: ごふん (go-fun)\n\n1分: いっぷん (ippun)\n3分: さんぷん (san-pun)\n10分: じゅっぷん (juppun)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bertanya & Info Tambahan",
+          "icon": "❓",
+          "color": "purple",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "Jam Berapa Sekarang?"
+            },
+            {
+              "type": "paragraph",
+              "content": "Gunakan frasa: いま は なんじ ですか。 (Ima wa nanji desu ka?)"
+            },
+            {
+              "type": "subtitle",
+              "content": "Setengah Jam (30 Menit)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Gunakan kata はん (han). Contoh: 2時半 (にじはん - niji-han) artinya Jam 2:30."
+            },
+            {
+              "type": "subtitle",
+              "content": "Pagi (AM) & Siang/Malam (PM)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Letakkan di depan waktu. ごぜん (gozen) untuk AM, ごご (gogo) untuk PM. Contoh: ごぜん９じ (gozen kuji) artinya Jam 9 Pagi."
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis pengecualian jam (4, 7, 9) dan menit (1, 3, 6, 8, 10) masing-masing 10 kali.",
+          "Tugas Membaca Waktu: Tulis cara membaca waktu berikut dalam Hiragana: 3:10, 7:30 (gunakan 'han'), 9:45.",
+          "Tugas Praktik: Tanyakan 'Ima wa nanji desu ka?' dan jawab dengan waktu saat ini dalam bahasa Jepang."
+        ]
+      }
+    ]
+  },
+  "56": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Gerbang Ketiga: Dunia Kanji",
+          "icon": "🈲",
+          "color": "red",
+          "children": "Selamat! Anda akan mempelajari Kanji (漢字) pertama Anda. Anggap setiap Kanji sebagai sebuah gambar yang menceritakan sebuah ide. Ini adalah lompatan besar yang akan membuat kemampuan membaca Anda meroket."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Apa & Mengapa Kanji?",
+          "icon": "🤔",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Kanji adalah karakter logografik yang dipinjam dari China. Satu karakter bisa mewakili satu kata atau ide."
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Mengapa Penting?",
+                "text": "Kanji memberikan konteks, membedakan kata-kata yang bunyinya sama (homofon), dan membuat kalimat lebih cepat dibaca."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "On'yomi vs. Kun'yomi",
+          "icon": "🗣️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Setiap Kanji memiliki dua jenis bacaan utama:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "On'yomi (音読み): 'Suara Impor' dari China. Biasanya digunakan saat Kanji digabung dengan Kanji lain (jukugo).",
+                "Kun'yomi (訓読み): 'Suara Lokal' asli Jepang. Biasanya digunakan saat Kanji berdiri sendiri atau diikuti Hiragana (okurigana)."
+              ]
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh pada '日' (hari/matahari)",
+                "text": "Kun'yomi: ひ (hi) - matahari\nOn'yomi: にち (nichi) dalam kata 日本 (Nihon)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "10 Simbol Pertamamu",
+          "icon": "✍️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "人 (jin, hito): orang",
+                "日 (nichi, jitsu, hi, -ka): hari, matahari",
+                "月 (getsu, gatsu, tsuki): bulan, Senin",
+                "火 (ka, hi): api, Selasa",
+                "水 (sui, mizu): air, Rabu",
+                "木 (moku, ki): pohon, Kamis",
+                "金 (kin, kane): emas/uang, Jumat",
+                "土 (do, tsuchi): tanah, Sabtu",
+                "年 (nen, toshi): tahun",
+                "本 (hon, moto): buku, asal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis: Tulis setiap Kanji baru di atas sebanyak 20 kali. Perhatikan urutan goresannya (stroke order).",
+          "Tugas Membaca: Coba baca kata-kata yang sudah Anda kenal ini: 日本 (Nihon), 日本人 (Nihonjin), 月曜日 (Getsuyoubi - Hari Senin).",
+          "Tugas Observasi: Cari salah satu Kanji di atas pada produk atau media di sekitar Anda."
+        ]
+      }
+    ]
+  },
+  "59": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Review & Pemanasan Bulan 2",
+          "icon": "💪",
+          "color": "blue",
+          "children": "LUAR BIASA! ANDA TELAH MENYELESAIKAN BULAN KEDUA!\n\nAnda telah membangun 'mesin' bahasa Jepang Anda dengan kata kerja, partikel, dan kata sifat. Sesi ini bertujuan untuk menguji semua komponen tersebut secara bersamaan sebelum ujian besar besok."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 1: Latihan Membaca & Pemahaman",
+          "icon": "🗣️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Baca paragraf di bawah ini dengan lantang. Paragraf ini menceritakan kegiatan di masa lampau. Setelah berhasil, coba pahami dan terjemahkan ceritanya."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Paragraf Latihan",
+                "text": "きのう、わたし は ともだち と としょかん へ いきました。\nとしょかん は とても しずか でした。わたしたち は にほんご を べんきょうしました。\nわたし は あたらしい ほん を よみました。その ほん は すこし むずかしかったです。でも、とても おもしろかったです。\nごご５じに、うち へ かえりました。"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 2: Latihan Menulis & Konstruksi",
+          "icon": "✍️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Terjemahkan kalimat-kalimat di bawah ini ke dalam tulisan Jepang yang lengkap, gunakan partikel dan bentuk kata kerja/sifat yang tepat."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Saya makan roti (パン) di kafe (カフェ).",
+                "Kemarin, saya tidak menonton TV (テレビ).",
+                "Kyoto adalah kota yang indah dan tenang.",
+                "Apakah kamu pergi ke sekolah dengan bus (バス)?",
+                "Tas ini tidak mahal. (gunakan bentuk negatif kata sifat-i)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 3: Pemanasan Keterampilan Cepat",
+          "icon": "🧠",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Lihat sekeliling Anda dan lakukan 3 tantangan ini:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "Pilih satu aktivitas yang Anda lakukan hari ini, katakan dalam bentuk lampau. (Contoh: きょう、コーヒー を のみました。)",
+                "Deskripsikan satu benda di dekat Anda menggunakan dua kata sifat yang digabung. (Contoh: この つくえ は ふるくて、おおきい です。)",
+                "Buat satu kalimat tentang apa yang TIDAK akan Anda lakukan besok. (Contoh: あした、わたし は はたらきません。)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Review: Baca dan pahami paragraf latihan di atas, coba terjemahkan setiap kalimat.",
+          "Tugas Menulis: Selesaikan terjemahan 5 kalimat di Sesi 2 dengan benar menggunakan partikel dan konjugasi yang tepat.",
+          "Tugas Praktik: Lakukan 3 tantangan di Sesi 3 dan tulis hasilnya dalam bahasa Jepang."
+        ]
+      }
+    ]
+  },
+  "61": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Selamat Datang di Bulan Ketiga!",
+          "icon": "🚀",
+          "color": "blue",
+          "children": "Ini adalah awal dari akhir! Hari ini, Anda akan mendapatkan 'Kartu Joker' atau 'Pisau Swiss' dari tata bahasa Jepang: Bentuk-TE (Te-Form)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Fungsi Bentuk-TE",
+          "icon": "🃏",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Bentuk ini sendiri tidak memiliki arti, tetapi ia adalah bentuk 'penghubung' ajaib yang memungkinkan Anda untuk:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "Menggabungkan beberapa aksi (Saya bangun, lalu sarapan.)",
+                "Membuat permintaan (Tolong buka jendela.)",
+                "Menyatakan aksi yang sedang berlangsung (Saya sedang belajar.)",
+                "Dan masih banyak lagi!"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Konjugasi Grup 2 (Ru-verbs)",
+          "icon": "✨",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ini adalah aturan termudah. Cukup hilangkan る (ru) di akhir, lalu ganti dengan て (te)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [...-ru] → [...-te]",
+                "text": "たべる (taberu) → たべて (tabete)\nみる (miru) → みて (mite)\nねる (neru) → ねて (nete)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Konjugasi Grup 3 (Irregular)",
+          "icon": "⚠️",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Hanya ada DUA kata kerja utama di grup ini yang wajib dihafal mati."
+            },
+            {
+              "type": "list",
+              "content": [
+                "くる (kuru - datang) → きて (kite)",
+                "する (suru - melakukan) → して (shite)",
+                "べんきょうする (belajar) → べんきょうして (benkyou shite)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Penggunaan #1: Menghubungkan Aksi",
+          "icon": "🔗",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Gunakan Bentuk-TE untuk merangkai beberapa aksi secara berurutan. Kata kerja terakhir menentukan waktu kalimat (lampau/sekarang)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [Aksi 1-TE], [Aksi 2-masu/mashita].",
+                "text": "あさ、シャワー を あびて、ごはん を たべます。\n(Pagi hari, saya mandi, lalu makan nasi.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Konjugasi: Ubah kata kerja berikut ke Bentuk-TE: でかける, あける, しめる, うんてんする, くる.",
+          "Tugas Membuat Kalimat: Buat 2 kalimat yang menghubungkan dua aksi (contoh: Bangun jam 6, lalu minum kopi).",
+          "Tugas AI Tutor: Minta AI 5 contoh kalimat lain yang menggunakan Bentuk-TE untuk menghubungkan dua aksi dari kata kerja Grup 2."
+        ]
+      }
+    ]
+  },
+  "63": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Tantangan Sebenarnya!",
+          "icon": "🔥",
+          "color": "red",
+          "children": "Anda telah berlatih dengan Grup 2 & 3. Hari ini, kita akan menghadapi tantangan sesungguhnya: mengubah kata kerja Grup 1 ke Bentuk-TE. Kuncinya adalah 'lagu' konjugasi!"
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "'Lagu' Konjugasi Grup 1",
+          "icon": "🎵",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Aturan perubahan bergantung pada huruf Hiragana terakhir sebelum ます di bentuk kamusnya."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Jika berakhiran い, ち, り → berubah menjadi って",
+                "Jika berakhiran み, び, に → berubah menjadi んで",
+                "Jika berakhiran き → berubah menjadi いて",
+                "Jika berakhiran ぎ → berubah menjadi いで",
+                "Jika berakhiran し → berubah menjadi して"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Aturan (い, ち, り → って)",
+          "icon": "✍️",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "かいます (kaimasu) → かって (katte)",
+                "まちます (machimasu) → まって (matte)",
+                "のります (norimasu) → のって (notte)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Aturan (み, び, に → んで)",
+          "icon": "✍️",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "よみます (yomimasu) → よんで (yonde)",
+                "あそびます (asobimasu) → あそんで (asonde)",
+                "しにます (shinimasu) → しんで (shinde)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Aturan (き, ぎ, し → ...)",
+          "icon": "✍️",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "かきます (kakimasu) → かいて (kaite)",
+                "およぎます (oyogimasu) → およいで (oyoide)",
+                "はなします (hanashimasu) → はなして (hanashite)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Pengecualian Emas",
+          "icon": "⚠️",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ada satu kata kerja Grup 1 yang sangat umum dan tidak mengikuti aturan di atas. Hafalkan ini!"
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Pengecualian: いきます (pergi)",
+                "text": "いきます → いって (itte)\n(BUKAN iite)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Buat tabel 'Lagu Konjugasi' dan tulis setiap aturan beserta satu contohnya sebanyak 5 kali.",
+          "Tugas Konjugasi Massal: Ubah ke Bentuk-TE: はなします, のみます, とります, いきます, ききます, まちます, いそぎます.",
+          "Tugas Membuat Kalimat: Buat 2 kalimat yang menghubungkan dua aksi, di mana aksi pertamanya adalah kata kerja Grup 1 (Contoh: ほん を よんで、ねます。)"
+        ]
+      }
+    ]
+  },
+  "65": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Jurus Meminta Tolong",
+          "icon": "🤝",
+          "color": "blue",
+          "children": "Anda telah berjuang keras mempelajari konjugasi Bentuk-TE. Hari ini, semua kerja keras itu terbayar. Kita akan menggunakan Bentuk-TE untuk 'kekuatan super' pertamanya: membuat permintaan sopan."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Pola ~てください (te kudasai)",
+          "icon": "🗣️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk membuat permintaan sopan ('Tolong lakukan...'), cukup ambil Bentuk-TE dari sebuah kata kerja dan tambahkan ください (kudasai)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Kalimat",
+                "text": "[Kata Kerja Bentuk-TE] + ください。"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "たべます → たべて → たべて ください (Tolong makan.)",
+                "かきます → かいて → かいて ください (Tolong tulis.)",
+                "きます → きて → きて ください (Tolong datang.)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Sehari-hari",
+          "icon": "💬",
+          "color": "orange",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "Meminta Menunggu"
+            },
+            {
+              "type": "paragraph",
+              "content": "ちょっと まってください。\n(Chotto matte kudasai.)\nArtinya: Tolong tunggu sebentar."
+            },
+            {
+              "type": "subtitle",
+              "content": "Meminta Mengambilkan Foto"
+            },
+            {
+              "type": "paragraph",
+              "content": "すみません、しゃしん を とってください。\n(Sumimasen, shashin o totte kudasai.)\nArtinya: Permisi, tolong ambilkan foto."
+            },
+            {
+              "type": "subtitle",
+              "content": "Memberikan Instruksi"
+            },
+            {
+              "type": "paragraph",
+              "content": "ここに なまえ を かいてください。\n(Koko ni namae o kaite kudasai.)\nArtinya: Tolong tulis nama di sini."
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Konjugasi: Ubah kata kerja berikut ke bentuk 〜てください: しめます (menutup), よみます (membaca), もってきます (membawa ke sini).",
+          "Tugas Membuat Kalimat: Buat 2 kalimat permintaan sopan (Contoh: 'Tolong ajari saya Bahasa Jepang' atau 'Tolong buka pintunya').",
+          "Tugas Praktik Dunia Nyata: Coba minta tolong anggota keluarga untuk mengambilkan air (みず) dengan mengatakan, 'すみません、みず を ください。'"
+        ]
+      }
+    ]
+  },
+  "68": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Fase Ekspresi Diri",
+          "icon": "💬",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'Saya makan ramen'. Hari ini, kita akan belajar mengatakan 'Saya INGIN makan ramen' menggunakan pola 〜たい (tai)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Aturan Pembentukan 〜たい",
+          "icon": "⚙️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Untuk membentuknya, ambil kata kerja bentuk -masu, hilangkan ます (masu), lalu tambahkan たい です (tai desu)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: ...-masu → ...-tai desu",
+                "text": "のみます → のみたい です (ingin minum)\nたべます → たべたい です (ingin makan)\nします → したい です (ingin melakukan)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Partikel Khusus: が (ga)",
+          "icon": "🔖",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Saat menggunakan pola 〜たい, objek dari keinginan Anda seringkali ditandai dengan partikel が (ga), bukan を."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola Kalimat",
+                "text": "Subjek は Objek が Kata Kerja-tai desu."
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Contoh",
+                "text": "わたし は ラーメン が たべたい です。\n(Saya ingin makan ramen.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk Negatif & Pertanyaan",
+          "icon": "🔄",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Karena berfungsi seperti Kata Sifat-i, bentuk negatifnya menggunakan ~くない (kunai)."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Negatif: たべたい です → たべたくない です (tidak ingin makan)",
+                "Tanya: なに が たべたい ですか。(Ingin makan apa?)"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Konjugasi: Ubah kata kerja みます, かいます, dan べんきょうします ke dalam bentuk 〜たい です dan 〜たくない です.",
+          "Tugas Membuat Kalimat: Buat 2 kalimat tentang apa yang ingin Anda lakukan (gunakan が) dan 1 kalimat tentang apa yang tidak ingin Anda lakukan.",
+          "Tugas Praktik: Latih tanya jawab: 'こんばん、なに が たべたい ですか。' - 'カレー が たべたい です。'"
+        ]
+      }
+    ]
+  },
+  "70": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Mengekspresikan Kemampuan",
+          "icon": "💪",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'Saya ingin...'. Sekarang saatnya mengatakan 'Saya BISA...'. Hari ini kita akan mempelajari pola 〜ことができます (koto ga dekimasu)."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Aturan Pembentukan",
+          "icon": "⚙️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ambil Bentuk Kamus (Jishokei) dari sebuah kata kerja, lalu tambahkan こと が できます (koto ga dekimasu)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola: [KK Bentuk Kamus] + こと が できます",
+                "text": "はなす → はなすこと が できます (bisa berbicara)\nたべる → たべること が できます (bisa makan)\nします → すること が できます (bisa melakukan)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Penggunaan dalam Kalimat",
+          "icon": "💬",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Pola ini digunakan untuk menyatakan bahwa subjek memiliki kemampuan untuk melakukan suatu aksi."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "わたし は にほんご を はなすこと が できます。\n(Saya bisa berbicara Bahasa Jepang.)\n\nマリアさん は りょうりすること が できます。\n(Sdri. Maria bisa memasak.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Bentuk Negatif & Pertanyaan",
+          "icon": "🔄",
+          "color": "purple",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "Bentuk Negatif (Tidak Bisa)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Ubah できます (dekimasu) menjadi できません (dekimasen)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "およぐこと が できません。\n(Tidak bisa berenang.)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Bentuk Pertanyaan (Apakah Bisa?)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Tambahkan か (ka) di akhir."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "およぐこと が できますか。\n(Apakah bisa berenang?)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Konjugasi: Ubah kata kerja Bentuk Kamus berikut ke pola 〜こと が できます: かく (menulis), よむ (membaca), くる (datang).",
+          "Tugas Membuat Kalimat: Buat 2 kalimat tentang apa yang BISA Anda lakukan dan 1 kalimat tentang apa yang TIDAK BISA Anda lakukan.",
+          "Tugas Praktik (Tanya Jawab): Latih tanya jawab 'あなたは にほんご を はなす こと が できますか。' dan jawab dengan jujur."
+        ]
+      }
+    ]
+  },
+  "72": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Seberapa Sering?",
+          "icon": "📊",
+          "color": "blue",
+          "children": "Anda sudah bisa mengatakan 'Saya minum kopi'. Tapi apakah Anda meminumnya selalu, sering, kadang-kadang, atau tidak pernah? Hari ini kita akan mempelajari Kata Keterangan Frekuensi."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Frekuensi Positif",
+          "icon": "👍",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Kata-kata ini digunakan dengan kata kerja bentuk positif (masu/mashita)."
+            },
+            {
+              "type": "list",
+              "content": [
+                "いつも (itsumo): Selalu (100%)",
+                "よく (yoku): Sering (≈70-80%)",
+                "ときどき (tokidoki): Kadang-kadang (≈30-40%)"
+              ]
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh",
+                "text": "わたし は よく としょかん へ いきます。\n(Saya sering pergi ke perpustakaan.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Frekuensi Negatif",
+          "icon": "👎",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Dua kata ini HARUS diikuti oleh kata kerja bentuk negatif (-masen/-masen deshita)."
+            },
+            {
+              "type": "list",
+              "content": [
+                "あまり (amari): Jarang / Tidak begitu",
+                "ぜんぜん (zenzen): Tidak pernah sama sekali"
+              ]
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Pola & Contoh",
+                "text": "あまり + ...ません。\nぜんぜん + ...ません。\n\nわたし は あまり コーヒー を のみません。\n(Saya jarang minum kopi.)\n\nかれ は ぜんぜん べんきょうしません。\n(Dia tidak pernah belajar sama sekali.)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Tulis kelima kata keterangan frekuensi beserta artinya masing-masing 10 kali.",
+          "Tugas Membuat Kalimat: Buat 3 kalimat menggunakan 'itsumo', 'yoku', dan 'tokidoki'. Lalu buat 2 kalimat menggunakan 'amari' dan 'zenzen'.",
+          "Tugas Refleksi Diri: Jawab pertanyaan 'あなたは まいにち にほんご を べんきょうしますか。' dengan jujur menggunakan salah satu dari lima kata keterangan tadi."
+        ]
+      }
+    ]
+  },
+  "75": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Fase Persiapan Tempur",
+          "icon": "⚔️",
+          "color": "red",
+          "children": "Anda telah mempelajari materi. Sekarang saatnya berlatih untuk ujian. Hari ini, kita akan belajar STRATEGI untuk mengerjakan soal Kanji dan Kosakata (Goi) dengan cepat dan akurat."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Review Kanji Kilat: 25 Kanji Penting",
+          "icon": "📚",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Sebelum belajar strategi, review cepat 25 Kanji yang sering muncul di N5. Coba baca tanpa melihat jawaban!"
+            },
+            {
+              "type": "subtitle",
+              "content": "Grup 1: Waktu & Hari"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Baca Kanji ini",
+                "text": "日 (hari/matahari) • 月 (bulan) • 年 (tahun) • 時 (jam) • 分 (menit)\n曜 (hari dalam seminggu) • 今 (sekarang) • 毎 (setiap)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Grup 2: Angka & Ukuran"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Baca Kanji ini",
+                "text": "一 二 三 四 五 六 七 八 九 十 百 千 万\n大 (besar) • 小 (kecil) • 多 (banyak) • 少 (sedikit)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Grup 3: Orang & Tempat"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Baca Kanji ini",
+                "text": "人 (orang) • 男 (laki-laki) • 女 (perempuan) • 子 (anak)\n国 (negara) • 学 (belajar) • 校 (sekolah) • 店 (toko)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Grup 4: Aksi & Arah"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Baca Kanji ini",
+                "text": "行 (pergi) • 来 (datang) • 出 (keluar) • 入 (masuk)\n食 (makan) • 飲 (minum) • 見 (melihat) • 読 (membaca)"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Tips: Jika ada Kanji yang Anda lupa, tulis di catatan untuk direview nanti!"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Strategi Mondai 1 (Membaca Kanji)",
+          "icon": "📖",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Di bagian ini, Anda akan melihat kata ber-Kanji digarisbawahi dan harus memilih bacaan Hiragana yang benar."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Kenali Bacaan Umum: Ingat kapan harus menggunakan On'yomi (saat digabung) dan Kun'yomi (saat sendiri).",
+                "Eliminasi Jawaban Salah: Seringkali pilihan jawaban menyertakan bacaan dari Kanji lain yang mirip. Coret pilihan yang Anda tahu pasti salah.",
+                "Jangan Terpaku: Jika buntu, tebak dengan cerdas dan segera lanjutkan. Waktu Anda berharga."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Strategi Mondai 2 & 3 (Kosakata & Konteks)",
+          "icon": "✍️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Di bagian ini, Anda harus mengisi bagian kosong dalam kalimat dengan kosakata yang paling logis."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Pahami Konteks Kalimat: Baca keseluruhan kalimat. Apa yang sedang dibicarakan? Tempat? Waktu? Aksi?",
+                "Perhatikan Partikel: Partikel adalah petunjuk terbesar! Partikel 'で' menandakan tempat aksi/alat, 'に' menandakan waktu/tujuan, 'を' menandakan objek.",
+                "Proses Eliminasi: Coba masukkan setiap pilihan ke dalam kalimat. Mana yang terdengar paling masuk akal?"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Latihan Kilat: Bacaan Jukugo",
+          "icon": "🎯",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Coba baca kata-kata gabungan (Jukugo) berikut. Ini adalah tipe yang sering muncul di soal!"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Baca Jukugo ini",
+                "text": "1. 毎日 (setiap hari)\n2. 日本人 (orang Jepang)\n3. 大学生 (mahasiswa)\n4. 水曜日 (hari Rabu)\n5. 食べ物 (makanan)\n6. 飲み物 (minuman)\n7. 出口 (pintu keluar)\n8. 入口 (pintu masuk)"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Jawaban: 1.まいにち 2.にほんじん 3.だいがくせい 4.すいようび 5.たべもの 6.のみもの 7.でぐち 8.いりぐち"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Review Mandiri: Tutup jawaban, baca ulang 25 Kanji dan 8 Jukugo di atas. Tandai yang masih sulit.",
+          "Latihan Mondai 2: Lengkapi kalimat: 'きのう、デパート (___) かばん を かいました。' (Jawaban: で)",
+          "Tugas AI Tutor (Simulasi): Minta AI untuk membuat 5 soal JLPT N5 Mondai 1 (Kanji Reading) untuk Anda kerjakan."
+        ]
+      }
+    ]
+  },
+  "77": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Drill Intensif!",
+          "icon": "🥊",
+          "color": "red",
+          "children": "Tidak ada materi baru hari ini. Anggap ini sebagai sesi 'gym' untuk otak Anda. Tujuannya adalah membiasakan otak Anda mengenali Kanji dan memilih kosakata yang tepat di bawah tekanan. Kecepatan adalah kunci!"
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 1: Drill Membaca Kanji",
+          "icon": "✍️",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Baca kata-kata ber-Kanji di bawah ini secepat mungkin. Apa bacaan Hiragananya?"
+            },
+            {
+              "type": "list",
+              "content": [
+                "1. 大きい",
+                "2. 小さい",
+                "3. 行きます",
+                "4. 来ます",
+                "5. 食べ物",
+                "6. 飲み物",
+                "7. 日曜日",
+                "8. 一月",
+                "9. 何人",
+                "10. 出口"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Kunci Jawaban",
+                "text": "1.おおきい, 2.ちいさい, 3.いきます, 4.きます, 5.たべもの, 6.のみもの, 7.にちようび, 8.いちがつ, 9.なんにん, 10.でぐち"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 2: Drill Kosakata Kontekstual",
+          "icon": "🧠",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Pilih kata yang paling tepat dari dalam kurung untuk melengkapi kalimat."
+            },
+            {
+              "type": "list",
+              "content": [
+                "1. ぎんこう は えき の (みぎ / うえ) に あります。",
+                "2. A: トイレ は (どこ / だれ) ですか。 B: あそこ です。",
+                "3. わたし は ペンで てがみ を (かきます / よみます)。",
+                "4. この ラーメン は とても (おいしい / たかい) です。",
+                "5. わたし の へや に (ベッド / いぬ) が あります。"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Kunci Jawaban",
+                "text": "1.みぎ, 2.どこ, 3.かきます, 4.おいしい, 5.ベッド"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Latihan Berwaktu: Kerjakan Sesi 1 dan Sesi 2 di atas menggunakan stopwatch. Catat berapa lama waktu yang Anda butuhkan.",
+          "Analisis Kesalahan: Periksa jawaban Anda. Lingkari semua soal yang Anda jawab salah atau butuh waktu lama untuk berpikir. Cari tahu mengapa Anda salah.",
+          "Buat Kalimat Koreksi: Pilih 3 kata (dari Kanji atau kosakata) yang Anda jawab salah, lalu buat kalimat Anda sendiri menggunakan kata-kata tersebut."
+        ]
+      }
+    ]
+  },
+  "79": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Pendakian Terakhir Kanji N5",
+          "icon": "🏔️",
+          "color": "red",
+          "children": "Hari ini adalah hari yang padat namun memuaskan. Kita akan mempelajari 20 Kanji terakhir untuk melengkapi fondasi 50 Kanji N5 Anda. Menguasai ini akan membuat Anda mampu membaca sebagian besar informasi penting dalam kehidupan sehari-hari di Jepang."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Kanji Set 4: Sekolah & Waktu",
+          "icon": "🏫",
+          "color": "blue",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "学 (gaku, mana-bu): belajar",
+                "校 (kou): sekolah",
+                "先 (sen, saki): dulu, depan",
+                "生 (sei, shou, i-kiru): hidup, lahir",
+                "今 (kon, kin, ima): sekarang",
+                "毎 (mai): setiap",
+                "何 (ka, nani, nan): apa",
+                "時 (ji, toki): waktu, jam",
+                "分 (fun, pun, bun): menit, bagian",
+                "半 (han): setengah"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Kata Gabungan (Jukugo)",
+          "icon": "🧩",
+          "color": "green",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "学校 (gakkou) - sekolah",
+                "先生 (sensei) - guru",
+                "学生 (gakusei) - siswa",
+                "今日 (kyou) - hari ini",
+                "毎日 (mainichi) - setiap hari",
+                "時間 (jikan) - waktu",
+                "何時 (nanji) - jam berapa"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Kanji Set 5: Benda, Alam, Konsep",
+          "icon": "🚗",
+          "color": "purple",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "車 (sha, kuruma): mobil",
+                "駅 (eki): stasiun",
+                "雨 (u, ame): hujan",
+                "天 (ten): langit",
+                "気 (ki, ke): semangat, udara",
+                "電 (den): listrik",
+                "語 (go): bahasa",
+                "国 (koku, kuni): negara",
+                "名 (mei, myou, na): nama",
+                "前 (zen, mae): depan"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Contoh Kata Gabungan (Jukugo)",
+          "icon": "🧩",
+          "color": "orange",
+          "children": [
+            {
+              "type": "list",
+              "content": [
+                "電車 (densha) - kereta listrik",
+                "天気 (tenki) - cuaca",
+                "電気 (denki) - listrik",
+                "日本語 (Nihongo) - Bahasa Jepang",
+                "国 (kuni) - negara",
+                "名前 (namae) - nama"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Tugas Menulis Inti: Pilih 10 Kanji yang paling sulit dari 20 Kanji baru, tulis masing-masing 20 kali.",
+          "Tugas Membaca Jukugo: Coba baca kata gabungan berikut tanpa melihat furigana: 先生, 学生, 毎日, 時間, 電車, 天気, 日本語, 名前.",
+          "Tugas Membuat Kalimat: Buat satu kalimat sederhana menggunakan salah satu kata gabungan yang baru Anda pelajari (Contoh: わたし は がくせい です。)."
+        ]
+      }
+    ]
+  },
+  "82": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Fase Strategi Akhir!",
+          "icon": "🎯",
+          "color": "red",
+          "children": "Mengetahui tata bahasa itu satu hal, menjawab soalnya dengan cepat di bawah tekanan adalah hal lain. Hari ini, kita tidak akan belajar pola baru, melainkan STRATEGI untuk memecahkan soal tata bahasa (Bunpou) di JLPT."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Strategi Mondai 1 (Pilihan Ganda)",
+          "icon": "✍️",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Ini adalah format soal paling umum: kalimat dengan bagian kosong (___) yang harus diisi."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Identifikasi Apa yang Dicari: Lihat posisi bagian kosong. Apakah setelah subjek (→ は)? Objek (→ を)? Tempat (→ に/で)?",
+                "Cari Kata Kunci Waktu: Lihat kata seperti きのう (kemarin) → pasti bentuk lampau. あした (besok) → pasti bentuk sekarang/masa depan.",
+                "Perhatikan 'Pasangan Tetap': Ingat bahwa あまり selalu diikuti bentuk negatif (~ません), dan kata kerja seperti わかります menggunakan partikel が."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Strategi Mondai 2 (Soal Bintang ★)",
+          "icon": "⭐",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Anda diberikan kalimat acak dan harus menemukan kata yang tepat untuk posisi bintang (★)."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Contoh Soal",
+                "text": "わたし は ___ ___ ★ ___ ___ いきます。\nPilihan: 1.へ 2.がっこう 3.で 4.バス"
+              }
+            },
+            {
+              "type": "list",
+              "content": [
+                "Langkah 1: Temukan 'Pasangan Alami'. Di sini, (がっこう へ) dan (バス で) adalah pasangan yang logis.",
+                "Langkah 2: Rakit Pasangan. Anda punya dua blok: [がっこう へ] dan [バス で].",
+                "Langkah 3: Bentuk Kalimat & Temukan Bintangnya. Kalimat yang benar: わたし は バス で がっこう へ いきます. Urutannya menjadi: わたし は (4) (3) ★(2) (1) いきます. Jadi, kata di posisi bintang adalah (2) がっこう."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Latihan Soal Bintang ★ Terbimbing",
+          "icon": "🌟",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Kerjakan soal-soal berikut dengan strategi di atas. Coba selesaikan sendiri dulu, baru lihat jawabannya!"
+            },
+            {
+              "type": "subtitle",
+              "content": "Soal 1"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Mondai 2",
+                "text": "わたし は ___ ___ ★ ___ おんがく を ききます。\nPilihan: 1.で 2.へや 3.の 4.わたし"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Pasangan: (わたし の へや) = kamar saya, (へや で) = di kamar → わたし は わたし の へや で おんがく を ききます → Jawaban ★: へや"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Soal 2"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Mondai 2",
+                "text": "きのう、___ ★ ___ ___ かいもの を しました。\nPilihan: 1.は 2.ともだち 3.と 4.デパート で"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Pasangan: (ともだち と) = bersama teman → きのう、ともだち と デパート で かいもの を しました → Jawaban ★: ともだち"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Soal 3"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Mondai 2",
+                "text": "これ は ___ ___ ___ ★ ほん です。\nPilihan: 1.せんせい 2.の 3.に 4.もらった"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Pola: [orang] に もらった = yang diterima dari [orang] → せんせい に もらった ほん → Jawaban ★: に"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Soal 4"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Mondai 2",
+                "text": "___ ___ ★ ___ いきませんか。\nPilihan: 1.いっしょに 2.えいが 3.を 4.みに"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Pola: えいが を みに いきます = pergi untuk menonton film → いっしょに えいが を みに いきませんか → Jawaban ★: えいが"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Soal 5"
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Mondai 2",
+                "text": "わたし は ___ ___ ___ ★ ほしい です。\nPilihan: 1.あたらしい 2.が 3.パソコン 4.の"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "text": "💡 Pola: [benda] が ほしい = ingin [benda] → あたらしい パソコン が ほしい (の tidak dipakai untuk kata sifat-い) → Jawaban ★: あたらしい"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Latihan Mondai 1: Isi bagian kosong: きのう、デパート (___) あたらしい くつ (___) かいました。 (Jawaban: で, を)",
+          "Praktik Mandiri: Tutup jawaban di atas, kerjakan ulang 5 soal ★ dengan strategi 3 langkah.",
+          "Tugas AI Tutor (Simulasi): Minta AI membuatkan Anda 3 soal JLPT N5 Bunpou Mondai 2 (bintang) yang baru dan kerjakan dengan strategi di atas."
+        ]
+      }
+    ]
+  },
+  "84": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Strategi Membaca Cepat",
+          "icon": "👓",
+          "color": "blue",
+          "children": "Banyak orang takut dengan bagian membaca (Dokkai). Kabar baiknya, untuk N5, Anda tidak perlu mengerti setiap kata! Tujuannya adalah menemukan informasi spesifik dengan cepat."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Teknik Mata Elang",
+          "icon": "🦅",
+          "color": "green",
+          "children": [
+            {
+              "type": "subtitle",
+              "content": "1. Skimming (Membaca Sepintas)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Baca seluruh teks dengan sangat cepat (5-10 detik) hanya untuk mendapatkan ide utama. 'Teks ini tentang apa?'"
+            },
+            {
+              "type": "subtitle",
+              "content": "2. Scanning (Memindai)"
+            },
+            {
+              "type": "paragraph",
+              "content": "Mencari kata kunci spesifik dari pertanyaan di dalam teks. Mata Anda bergerak cepat, hanya mencari kata yang cocok."
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Latihan Dokkai Terbimbing",
+          "icon": "📖",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Baca teks pendek berikut dan jawab pertanyaannya."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Teks Pendek",
+                "text": "[Papan Pengumuman Toko\n                            ]\n営業時間 (Jam Buka)\nげつようび 〜 きんようび: 10: 00 - 20: 00\nどようび: 10: 00 - 18: 00\nにちようび: やすみ (Libur)"
+              }
+            },
+            {
+              "type": "subtitle",
+              "content": "Pertanyaan:"
+            },
+            {
+              "type": "list",
+              "content": [
+                "1. Toko ini buka jam berapa pada hari Rabu?",
+                "2. Apakah toko ini buka pada hari Minggu?"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Strategi & Jawaban:",
+                "text": "1. Scan \"Rabu\" (suiyoubi) atau range \"Mon-Fri\" (Getsu-Kin). → Ditemukan: 10: 00 - 20: 00.\n2. Scan \"Minggu\" (nichiyoubi). → Ditemukan: やすみ (Libur) → Tidak."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Latihan Scanning: Buka sebuah website berita Jepang (misal: NHK News Web Easy). Coba cari tanggal hari ini dan suhu cuaca tanpa membaca beritanya.",
+          "Tugas Dokkai Mandiri: Cari teks pendek bahasa Jepang sederhana di internet, buat 1 pertanyaan tentang teks tersebut, lalu jawab sendiri.",
+          "Tugas AI Tutor: Minta AI membuatkan 1 soal Dokkai JLPT N5 pendek tentang 'Jadwal Kereta' beserta 2 pertanyaannya."
+        ]
+      }
+    ]
+  },
+  "86": {
+    "layoutType": "masonry",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Gladi Resik (Uji Coba)",
+          "icon": "🎓",
+          "color": "blue",
+          "children": "Besok adalah hari H! Hari ini kita akan melakukan simulasi mini untuk merasakan 'ritme' ujian. Kondisikan diri Anda seolah-olah sedang ujian sungguhan."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 1: Kosakata & Kanji (5 Menit)",
+          "icon": "⏱️",
+          "color": "red",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Kerjakan secepat mungkin!"
+            },
+            {
+              "type": "list",
+              "content": [
+                "1. Kanji untuk 'sekolah' adalah... (A.校 B.好 C.行)",
+                "2. Kanji untuk 'makan' adalah... (A.飲 B.食 C.飢)",
+                "3. Bacaan dari 休み adalah... (A.yasumi B.tanoshimi C.kanashimi)",
+                "4. Bacaan dari 新しい adalah... (A.atarashii B.yasashii C.muzukashii)",
+                "5. Lawan kata dari 'ookii' adalah... (A.nagai B.chiisai C.hikui)"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Kunci Jawaban:",
+                "text": "1.A 2.B 3.A 4.A 5.B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 2: Tata Bahasa (5 Menit)",
+          "icon": "⏱️",
+          "color": "green",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Pilih partikel atau bentuk yang tepat!"
+            },
+            {
+              "type": "list",
+              "content": [
+                "1. わたし ___ ほん を よみます。(A.は B.を C.に)",
+                "2. きのう、デパート ___ いきました。(A.で B.へ C.を)",
+                "3. いっしょに ___ せんか。(A.たべま B.たべ C.たべり)",
+                "4. あの えいが は ___ です。(A.おもしろい B.おもしろく C.おもしろ)",
+                "5. これ は わたし ___ かさ です。(A.の B.に C.で)"
+              ]
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Kunci Jawaban:",
+                "text": "1.A (Topik) 2.B (Tujuan) 3.A (Ajakan) 4.A (Sifat-i Predikat) 5.A (Kepemilikan)"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sesi 3: Mendengarkan (Choukai) - Simulasi",
+          "icon": "👂",
+          "color": "orange",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Minta tolong teman atau gunakan TTS (Text-to-Speech) untuk membacakan ini, lalu jawab."
+            },
+            {
+              "type": "example",
+              "content": {
+                "title": "Skrip Soal",
+                "text": "(Suara Pria): Sumimasen, toire wa doko desu ka?\n(Suara Wanita): Asoko desu. Ano kaidan no chikaku desu.\n(Suara Pria): Arigatou gozaimasu.\nPertanyaan: Pria itu akan pergi ke mana?"
+              }
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Jawaban:",
+                "text": "Ke Toilet."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Evaluasi Diri: Hitung skor Anda. Jika < 80%, review kembali materi yang salah.",
+          "Persiapan Mental: Tidur lebih awal malam ini. Siapkan alat tulis. Pastikan Anda rileks.",
+          "Kata-kata Penyemangat: Tulis '合格 (Goukaku - Lulus)' di selembar kertas dan tempel di dinding Anda!"
+        ]
+      }
+    ]
+  },
+  "88": {
+    "layoutType": "single",
+    "blocks": [
+      {
+        "type": "section",
+        "content": {
+          "title": "Evaluasi Akhir & Perayaan",
+          "icon": "🎉",
+          "color": "gold",
+          "children": "SELAMAT! Anda telah menyelesaikan perjalanan 3 bulan (atau lebih) ini. Apa pun hasil ujian Anda nanti, Anda telah memenangkan hal yang lebih besar: DISIPLIN dan KONSISTENSI."
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Langkah Selanjutnya?",
+          "icon": "🚀",
+          "color": "blue",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Perjalanan bahasa Jepang Anda baru saja dimulai (N5 adalah pintu gerbang)."
+            },
+            {
+              "type": "list",
+              "content": [
+                "Target N4: Mulai pelajari bentuk kata kerja lanjutan (Potensial, Pasif, Kausatif).",
+                "Perbanyak Kosakata: N5 butuh ~800 kata, N4 butuh ~1500 kata. Teruslah menambang kata!",
+                "Immersi: Mulai tonton anime/drama dengan subtitle Jepang, atau dengarkan lagu Jepang."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "section",
+        "content": {
+          "title": "Sertifikat Penyelesaian",
+          "icon": "📜",
+          "color": "purple",
+          "children": [
+            {
+              "type": "paragraph",
+              "content": "Anda berhak bangga. Anda bukan lagi pemula yang buta huruf. Anda adalah seorang SAMURAI PEMBELAJAR."
+            },
+            {
+              "type": "highlight",
+              "content": {
+                "title": "Motto Anda Tautkan ke Hati:",
+                "text": "'千里の道も一歩から' (Senri no michi mo ippo kara)\nPerjalanan seribu mil dimulai dengan satu langkah."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "mission",
+        "content": [
+          "Rayakan!: Makan makanan Jepang favorit Anda hari ini sebagai reward.",
+          "Review Total: Jika ada waktu, baca kembali catatan Anda dari Hari 1 sampai Hari 87.",
+          "Tetapkan Tujuan Baru: Tulis target Anda untuk 3 bulan ke depan."
+        ]
+      }
+    ]
+  }
+}

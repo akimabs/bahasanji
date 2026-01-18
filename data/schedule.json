@@ -1,0 +1,362 @@
+{
+    "1": {
+        "title": "Materi: Hiragana A & KA + Salam",
+        "description": "Belajar 10 Hiragana pertama (baris A & KA) dan 3 salam dasar."
+    },
+    "2": {
+        "title": "Kuis Harian #1",
+        "description": "Menguji pemahaman 10 Hiragana pertama dan salam dasar."
+    },
+    "3": {
+        "title": "Materi: Hiragana SA & TA",
+        "description": "Belajar 10 Hiragana berikutnya (baris SA & TA) dengan fokus pada bunyi 'shi', 'chi', dan 'tsu'."
+    },
+    "4": {
+        "title": "Kuis Harian #2",
+        "description": "Menguji pemahaman Hiragana baris SA & TA."
+    },
+    "5": {
+        "title": "Materi: Hiragana NA & HA",
+        "description": "Belajar 10 Hiragana berikutnya (baris NA & HA) dan Aturan Emas partikel は (wa)."
+    },
+    "6": {
+        "title": "Kuis Harian #3",
+        "description": "Menguji pemahaman Hiragana baris NA & HA serta partikel は."
+    },
+    "7": {
+        "title": "Kuis Besar Minggu 1",
+        "description": "Ujian komprehensif untuk 30 Hiragana pertama (A s/d HA)."
+    },
+    "8": {
+        "title": "Materi: Hiragana MA & YA",
+        "description": "Belajar 8 Hiragana berikutnya (baris MA & YA)."
+    },
+    "9": {
+        "title": "Kuis Harian #4",
+        "description": "Menguji pemahaman Hiragana baris MA & YA."
+    },
+    "10": {
+        "title": "Materi: Hiragana RA, WA, N",
+        "description": "Menyelesaikan 46 Hiragana dasar dengan baris RA, WA, dan ん."
+    },
+    "11": {
+        "title": "Kuis Harian #5",
+        "description": "Menguji pemahaman Hiragana baris RA, WA, dan ん."
+    },
+    "12": {
+        "title": "Materi: Suara Tambahan",
+        "description": "Belajar modifikasi suara: Dakuten (゛), Handakuten (゜), dan Yoon (bunyi gabungan)."
+    },
+    "13": {
+        "title": "Kuis Harian #6",
+        "description": "Menguji pemahaman Dakuten, Handakuten, dan Yoon."
+    },
+    "14": {
+        "title": "Kuis Besar Minggu 2",
+        "description": "Ujian komprehensif untuk seluruh sistem suara Hiragana."
+    },
+    "15": {
+        "title": "Materi: Pola A は B です",
+        "description": "Mempelajari 'jantung' kalimat Jepang 'A adalah B'."
+    },
+    "16": {
+        "title": "Kuis Harian #7",
+        "description": "Menguji pemahaman dan pembuatan kalimat A は B です."
+    },
+    "17": {
+        "title": "Materi: Kalimat Negatif & Tanya",
+        "description": "Belajar membuat kalimat negatif (じゃありません) dan kalimat tanya (ですか)."
+    },
+    "18": {
+        "title": "Kuis Harian #8",
+        "description": "Menguji kemampuan mengubah kalimat menjadi negatif dan tanya."
+    },
+    "19": {
+        "title": "Materi: Kata Tunjuk & Tanya",
+        "description": "Menguasai kata tunjuk (これ, それ, あれ) dan kata tanya 'apa' (なん)."
+    },
+    "20": {
+        "title": "Kuis Harian #9",
+        "description": "Menguji penggunaan kata tunjuk dalam berbagai situasi."
+    },
+    "21": {
+        "title": "Kuis Besar Minggu 3",
+        "description": "Ujian komprehensif untuk semua pola kalimat dasar."
+    },
+    "22": {
+        "title": "Materi: Partikel の & だれ",
+        "description": "Belajar menyatakan kepemilikan dengan partikel の dan kata tanya 'siapa' (だれ)."
+    },
+    "23": {
+        "title": "Kuis Harian #10",
+        "description": "Menguji pemahaman partikel kepemilikan の."
+    },
+    "24": {
+        "title": "Materi: Pengenalan Katakana",
+        "description": "Mulai belajar Katakana (baris A, KA, SA, TA)."
+    },
+    "25": {
+        "title": "Kuis Harian #11",
+        "description": "Menguji 20 karakter Katakana pertama."
+    },
+    "26": {
+        "title": "Materi: Melengkapi Katakana",
+        "description": "Menyelesaikan semua Katakana dasar (NA s/d N) dan suara tambahan."
+    },
+    "27": {
+        "title": "Kuis Harian #12",
+        "description": "Menguji pemahaman seluruh sistem suara Katakana."
+    },
+    "28": {
+        "title": "Kuis Besar Minggu 4",
+        "description": "Ujian gabungan untuk partikel の dan semua Katakana."
+    },
+    "29": {
+        "title": "Review & Latihan Terpadu Bulan 1",
+        "description": "Sesi latihan dan pemanasan untuk menghubungkan semua materi Bulan 1."
+    },
+    "30": {
+        "title": "Simulasi Ujian Bulan 1",
+        "description": "Ujian simulasi yang mencakup semua materi dari Hari 1-28."
+    },
+    "31": {
+        "title": "Materi: Pengenalan Kata Kerja & 3 Grup",
+        "description": "Memahami 3 grup kata kerja dan perbedaan Bentuk Kamus vs. Bentuk -masu."
+    },
+    "32": {
+        "title": "Kuis Harian #13",
+        "description": "Menguji kemampuan mengidentifikasi grup kata kerja."
+    },
+    "33": {
+        "title": "Materi: Bentuk -masu & -mashita",
+        "description": "Belajar konjugasi kata kerja positif (sekarang/masa depan & lampau)."
+    },
+    "34": {
+        "title": "Kuis Harian #14",
+        "description": "Menguji pemahaman bentuk -masu dan -mashita."
+    },
+    "35": {
+        "title": "Materi: Bentuk -masen & -masen deshita",
+        "description": "Belajar konjugasi kata kerja negatif (sekarang/masa depan & lampau)."
+    },
+    "36": {
+        "title": "Kuis Harian #15",
+        "description": "Menguji pemahaman bentuk -masen dan -masen deshita."
+    },
+    "37": {
+        "title": "Kuis Besar Minggu 5",
+        "description": "Ujian komprehensif untuk empat pilar konjugasi bentuk -masu."
+    },
+    "38": {
+        "title": "Materi: Partikel Objek を (o)",
+        "description": "Mempelajari partikel を untuk menandai objek dari sebuah aksi."
+    },
+    "39": {
+        "title": "Kuis Harian #16",
+        "description": "Menguji pemahaman dan penggunaan partikel を."
+    },
+    "40": {
+        "title": "Materi: Partikel Waktu & Tujuan に (ni)",
+        "description": "Belajar partikel に untuk menyatakan waktu spesifik dan tujuan gerakan."
+    },
+    "41": {
+        "title": "Kuis Harian #17",
+        "description": "Menguji dua fungsi utama partikel に."
+    },
+    "42": {
+        "title": "Materi: Partikel Lokasi & Alat で (de)",
+        "description": "Belajar partikel で untuk menyatakan lokasi aksi dan alat/cara."
+    },
+    "43": {
+        "title": "Kuis Harian #18",
+        "description": "Menguji pemahaman dan perbedaan partikel で dan に."
+    },
+    "44": {
+        "title": "Kuis Besar Minggu 6",
+        "description": "Ujian gabungan untuk partikel dasar (を, に, で, へ, と)."
+    },
+    "45": {
+        "title": "Materi: Kata Sifat-い (I-Adjective)",
+        "description": "Belajar penggunaan dan konjugasi negatif Kata Sifat-い."
+    },
+    "46": {
+        "title": "Kuis Harian #19",
+        "description": "Menguji pemahaman Kata Sifat-い."
+    },
+    "47": {
+        "title": "Materi: Kata Sifat-な (Na-Adjective)",
+        "description": "Belajar penggunaan dan konjugasi negatif Kata Sifat-な."
+    },
+    "48": {
+        "title": "Kuis Harian #20",
+        "description": "Menguji pemahaman Kata Sifat-な."
+    },
+    "49": {
+        "title": "Materi: Menggabungkan Kata Sifat",
+        "description": "Belajar cara merangkai beberapa kata sifat (-kute / -de)."
+    },
+    "50": {
+        "title": "Kuis Harian #21",
+        "description": "Menguji kemampuan menggabungkan kata sifat."
+    },
+    "51": {
+        "title": "Kuis Besar Minggu 7",
+        "description": "Ujian komprehensif untuk semua jenis kata sifat."
+    },
+    "52": {
+        "title": "Materi: Angka & Counter Dasar",
+        "description": "Belajar sistem angka 1-100 dan cara menghitung benda umum dengan 〜つ."
+    },
+    "53": {
+        "title": "Kuis Harian #22",
+        "description": "Menguji pemahaman angka dan counter 〜つ."
+    },
+    "54": {
+        "title": "Materi: Waktu (Jam & Menit)",
+        "description": "Belajar cara menyatakan jam (時) dan menit (分), termasuk pengecualiannya."
+    },
+    "55": {
+        "title": "Kuis Harian #23",
+        "description": "Menguji kemampuan menyatakan waktu."
+    },
+    "56": {
+        "title": "Materi: Kanji Dasar N5 (Set 1)",
+        "description": "Mempelajari 10 Kanji pertama (人, 日, 月, 火, 水, 木, 金, 土, 年, 本)."
+    },
+    "57": {
+        "title": "Kuis Harian #24",
+        "description": "Menguji pemahaman 10 Kanji pertama."
+    },
+    "58": {
+        "title": "Kuis Besar Minggu 8",
+        "description": "Ujian gabungan untuk Angka, Waktu, dan Kanji Dasar."
+    },
+    "59": {
+        "title": "Review & Latihan Terpadu Bulan 2",
+        "description": "Sesi latihan untuk menghubungkan semua materi Bulan 2 (kata kerja, partikel, kata sifat, dll.)."
+    },
+    "60": {
+        "title": "Simulasi Ujian Bulan 2",
+        "description": "Ujian simulasi yang mencakup semua materi dari Hari 1-58."
+    },
+    "61": {
+        "title": "Materi: Pengenalan Bentuk-TE (Grup 2 & 3)",
+        "description": "Belajar konjugasi Bentuk-TE untuk kata kerja yang paling mudah."
+    },
+    "62": {
+        "title": "Kuis Harian #25",
+        "description": "Menguji konjugasi Bentuk-TE Grup 2 & 3."
+    },
+    "63": {
+        "title": "Materi: Aturan Lengkap Bentuk-TE (Grup 1)",
+        "description": "Mempelajari 'lagu' konjugasi Bentuk-TE untuk kata kerja Grup 1."
+    },
+    "64": {
+        "title": "Kuis Harian #26",
+        "description": "Menguji semua aturan konjugasi Bentuk-TE Grup 1."
+    },
+    "65": {
+        "title": "Materi: Pola Permintaan 〜てください",
+        "description": "Menggunakan Bentuk-TE untuk membuat permintaan sopan."
+    },
+    "66": {
+        "title": "Kuis Harian #27",
+        "description": "Menguji pembuatan kalimat permintaan 〜てください."
+    },
+    "67": {
+        "title": "Kuis Besar Minggu 9",
+        "description": "Ujian komprehensif untuk semua konjugasi Bentuk-TE dan pola permintaan."
+    },
+    "68": {
+        "title": "Materi: Pola Keinginan 〜たい",
+        "description": "Belajar menyatakan keinginan untuk melakukan sesuatu."
+    },
+    "69": {
+        "title": "Kuis Harian #28",
+        "description": "Menguji penggunaan pola 〜たい."
+    },
+    "70": {
+        "title": "Materi: Pola Kemampuan 〜ことができます",
+        "description": "Belajar menyatakan kemampuan atau 'bisa melakukan sesuatu'."
+    },
+    "71": {
+        "title": "Kuis Harian #29",
+        "description": "Menguji penggunaan pola 〜ことができます."
+    },
+    "72": {
+        "title": "Materi: Kata Keterangan Frekuensi",
+        "description": "Belajar kata seperti いつも (selalu), よく (sering), ときどき (kadang-kadang), dll."
+    },
+    "73": {
+        "title": "Kuis Harian #30",
+        "description": "Menguji pemahaman kata keterangan frekuensi."
+    },
+    "74": {
+        "title": "Kuis Besar Minggu 10",
+        "description": "Ujian gabungan untuk pola keinginan, kemampuan, dan frekuensi."
+    },
+    "75": {
+        "title": "Materi: Strategi Soal Kanji & Goi",
+        "description": "Belajar teknik dan strategi untuk mengerjakan soal Kanji dan Kosakata (Goi)."
+    },
+    "76": {
+        "title": "Kuis Harian #31",
+        "description": "Menguji penerapan strategi soal Kanji & Goi."
+    },
+    "77": {
+        "title": "Materi: Drill Intensif Kanji & Goi",
+        "description": "Sesi latihan cepat untuk mengasah kecepatan dan akurasi soal Kanji & Goi."
+    },
+    "78": {
+        "title": "Kuis Harian #32",
+        "description": "Kuis simulasi kecepatan untuk soal Kanji & Goi."
+    },
+    "79": {
+        "title": "Materi: Melengkapi 50 Kanji N5",
+        "description": "Mempelajari 20 Kanji terakhir untuk melengkapi fondasi 50 Kanji N5."
+    },
+    "80": {
+        "title": "Kuis Harian #33",
+        "description": "Menguji pemahaman total 50 Kanji N5."
+    },
+    "81": {
+        "title": "Kuis Besar Minggu 11",
+        "description": "Ujian akhir untuk semua 50 Kanji N5 dan strategi kosakata."
+    },
+    "82": {
+        "title": "Materi: Strategi Soal Bunpou (Tata Bahasa)",
+        "description": "Belajar teknik mengerjakan soal pilihan ganda dan menyusun kalimat (soal ★)."
+    },
+    "83": {
+        "title": "Kuis Harian #34",
+        "description": "Kuis simulasi untuk soal-soal Bunpou."
+    },
+    "84": {
+        "title": "Materi: Strategi Soal Dokkai (Membaca)",
+        "description": "Belajar teknik membaca cepat (Skimming & Scanning) untuk menemukan informasi."
+    },
+    "85": {
+        "title": "Kuis Harian #35",
+        "description": "Kuis simulasi untuk soal-soal Dokkai."
+    },
+    "86": {
+        "title": "Materi: Strategi Soal Choukai (Mendengar)",
+        "description": "Belajar teknik menangkap kata kunci dan mempersiapkan diri sebelum audio diputar."
+    },
+    "87": {
+        "title": "Kuis Harian #36",
+        "description": "Kuis simulasi (berbasis teks) untuk soal-soal Choukai."
+    },
+    "88": {
+        "title": "Kuis Besar Minggu 12",
+        "description": "Simulasi mini ujian akhir yang menggabungkan soal Bunpou, Dokkai, dan Choukai."
+    },
+    "89": {
+        "title": "Simulasi Ujian Penuh JLPT N5",
+        "description": "Simulasi ujian akhir yang mencakup semua materi dari Hari 1-88."
+    },
+    "90": {
+        "title": "Analisis Hasil & Langkah Selanjutnya",
+        "description": "Refleksi hasil ujian, identifikasi kelemahan, dan ajakan untuk simulasi N5 penuh."
+    }
+}
