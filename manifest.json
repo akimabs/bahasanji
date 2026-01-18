@@ -1,7 +1,8 @@
 {
     "name": "BAHASANJI - 90 Hari Belajar Jepang",
     "short_name": "BAHASANJI",
-    "start_url": "./index.html",
+    "start_url": ".",
+    "scope": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
