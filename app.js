@@ -16,6 +16,13 @@ const App = {
         // Setup History API handling
         window.onpopstate = (e) => this.handlePopState(e);
 
+        // Register Service Worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js')
+                .then(reg => console.log('✅ Service Worker Registered', reg))
+                .catch(err => console.error('❌ Service Worker Failed', err));
+        }
+
         // Hide loading screen
         document.getElementById('loading').classList.add('hidden');
 
