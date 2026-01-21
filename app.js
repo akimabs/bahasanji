@@ -6,6 +6,7 @@ const App = {
     currentView: 'map',
     previousView: null,
     previousLessonDay: null,
+    isDev: ['localhost', '127.0.0.1'].includes(window.location.hostname),
 
     async init() {
         console.log('🚀 Initializing BAHASANJI...');

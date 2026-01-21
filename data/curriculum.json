@@ -19,13 +19,38 @@
           "color": "orange",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "あ (a): Seperti 'a' pada kata 'anak'. Jembatan Keledai: Sebuah Apel yang ditusuk.",
-                "い (i): Seperti 'i' pada kata 'ikan'. Jembatan Keledai: Sepasang ikan berenang.",
-                "う (u): Bibir rileks. Jembatan Keledai: Ular yang meringkuk.",
-                "え (e): Seperti 'e' pada kata 'lele'. Jembatan Keledai: Cacing melakukan Erobik.",
-                "お (o): Seperti 'o' pada kata 'toko'. Jembatan Keledai: Orang memakai topi."
+                {
+                  "char": "あ",
+                  "reading": "a",
+                  "desc": "Seperti 'a' pada kata 'anak'",
+                  "mnemonic": "Sebuah <b>A</b>pel yang ditusuk"
+                },
+                {
+                  "char": "い",
+                  "reading": "i",
+                  "desc": "Seperti 'i' pada kata 'ikan'",
+                  "mnemonic": "Sepasang <b>i</b>kan berenang"
+                },
+                {
+                  "char": "う",
+                  "reading": "u",
+                  "desc": "Bibir rileks, tidak membulat kuat",
+                  "mnemonic": "<b>U</b>lar yang meringkuk"
+                },
+                {
+                  "char": "え",
+                  "reading": "e",
+                  "desc": "Seperti 'e' pada kata 'lele'",
+                  "mnemonic": "Cacing melakukan <b>E</b>robik"
+                },
+                {
+                  "char": "お",
+                  "reading": "o",
+                  "desc": "Seperti 'o' pada kata 'toko'",
+                  "mnemonic": "<b>O</b>rang memakai topi"
+                }
               ]
             }
           ]
@@ -39,13 +64,38 @@
           "color": "green",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "か (ka): Jembatan Keledai: Tendangan KArate.",
-                "き (ki): Jembatan Keledai: Gambar sebuah KEY (kunci).",
-                "く (ku): Jembatan Keledai: Mulut burung KUkutai (<).",
-                "け (ke): Jembatan Keledai: Sebuah KErangka atau gawang.",
-                "こ (ko): Jembatan Keledai: Dua ekor KOala berpelukan."
+                {
+                  "char": "か",
+                  "reading": "ka",
+                  "desc": "Suara 'k' yang tajam",
+                  "mnemonic": "Tendangan <b>KA</b>rate"
+                },
+                {
+                  "char": "き",
+                  "reading": "ki",
+                  "desc": "Dua garis horizontal",
+                  "mnemonic": "Gambar sebuah <b>KI</b> (Kunci)"
+                },
+                {
+                  "char": "く",
+                  "reading": "ku",
+                  "desc": "Mulut burung membuka",
+                  "mnemonic": "Mulut burung <b>KU</b>kutai (<)"
+                },
+                {
+                  "char": "け",
+                  "reading": "ke",
+                  "desc": "Bentuk tiga garis",
+                  "mnemonic": "Sebuah <b>KE</b>rangka atau gawang"
+                },
+                {
+                  "char": "こ",
+                  "reading": "ko",
+                  "desc": "Dua garis melengkung",
+                  "mnemonic": "Dua ekor <b>KO</b>ala berpelukan"
+                }
               ]
             }
           ]
@@ -55,15 +105,30 @@
         "type": "section",
         "content": {
           "title": "Salam Ajaib",
-          "icon": "💬",
+          "icon": "chat",
           "color": "pink",
           "children": [
             {
-              "type": "list",
+              "type": "phrase-list",
               "content": [
-                "おはようございます (Ohayou gozaimasu): Selamat Pagi (Formal). Digunakan dari subuh hingga ~10 pagi.",
-                "こんにちは (Konnichiwa): Selamat Siang / Halo. Digunakan dari ~10 pagi hingga matahari terbenam.",
-                "こんばんは (Konbanwa): Selamat Malam. Digunakan setelah matahari terbenam."
+                {
+                  "phrase": "おはようございます",
+                  "reading": "Ohayou gozaimasu",
+                  "meaning": "Selamat Pagi (Formal)",
+                  "usage": "Digunakan dari bangun tidur sampai sekitar jam 10 pagi."
+                },
+                {
+                  "phrase": "こんにちは",
+                  "reading": "Konnichiwa",
+                  "meaning": "Selamat Siang / Halo",
+                  "usage": "Digunakan dari jam 10 pagi sampai matahari mulai terbenam."
+                },
+                {
+                  "phrase": "こんばんは",
+                  "reading": "Konbanwa",
+                  "meaning": "Selamat Malam",
+                  "usage": "Digunakan setelah matahari terbenam."
+                }
               ]
             }
           ]
@@ -208,20 +273,39 @@
           "color": "orange",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "さ (sa): Seperti 'sa' pada 'satu'. Jembatan Keledai: SAbit tergeletak.",
-                "す (su): Seperti 'su' pada 'suka'. Jembatan Keledai: Jejak SUsiput.",
-                "せ (se): Seperti 'se' pada 'sendal'. Jembatan Keledai: Mulut terSEnyum.",
-                "そ (so): Seperti 'so' pada 'soto'. Jembatan Keledai: Benang jahit zig-zag."
+                {
+                  "char": "さ",
+                  "reading": "sa",
+                  "desc": "Seperti 'sa' pada 'satu'",
+                  "mnemonic": "<b>SA</b>bit tergeletak"
+                },
+                {
+                  "char": "し",
+                  "reading": "shi",
+                  "desc": "Bukan 'si'. Seperti 'shi' pada 'shintaro'.",
+                  "mnemonic": "Kail pancing terbalik"
+                },
+                {
+                  "char": "す",
+                  "reading": "su",
+                  "desc": "Seperti 'su' pada 'suka'",
+                  "mnemonic": "Jejak <b>SU</b>siput"
+                },
+                {
+                  "char": "せ",
+                  "reading": "se",
+                  "desc": "Seperti 'se' pada 'sendal'",
+                  "mnemonic": "Mulut ter<b>SE</b>nyum"
+                },
+                {
+                  "char": "そ",
+                  "reading": "so",
+                  "desc": "Seperti 'so' pada 'soto'",
+                  "mnemonic": "Benang jahit zig-zag"
+                }
               ]
-            },
-            {
-              "type": "highlight",
-              "content": {
-                "title": "Perhatian!",
-                "text": "し (shi): Dibaca 'shi' seperti 'shintaro', bukan 'si'."
-              }
             }
           ]
         }
@@ -234,26 +318,39 @@
           "color": "green",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "た (ta): Jembatan Keledai: Gabungan huruf 't' dan 'a'.",
-                "て (te): Jembatan Keledai: Ekor (teil) anjing.",
-                "と (to): Jembatan Keledai: TOmato ditusuk."
+                {
+                  "char": "た",
+                  "reading": "ta",
+                  "desc": "Seperti 'ta' pada 'tabung'",
+                  "mnemonic": "Gabungan huruf 't' dan 'a'"
+                },
+                {
+                  "char": "ち",
+                  "reading": "chi",
+                  "desc": "Bukan 'ti'. Seperti 'chi' pada 'cicak'.",
+                  "mnemonic": "Orang berlari (CHIeetah)"
+                },
+                {
+                  "char": "つ",
+                  "reading": "tsu",
+                  "desc": "Bukan 'tu'. Seperti 'tsu' pada 'tsunami'.",
+                  "mnemonic": "Gelombang <b>TSU</b>nami"
+                },
+                {
+                  "char": "て",
+                  "reading": "te",
+                  "desc": "Seperti 'te' pada 'teh'",
+                  "mnemonic": "Ekor (<b>TE</b>il) anjing"
+                },
+                {
+                  "char": "と",
+                  "reading": "to",
+                  "desc": "Seperti 'to' pada 'toko'",
+                  "mnemonic": "<b>TO</b>mat ditusuk"
+                }
               ]
-            },
-            {
-              "type": "highlight",
-              "content": {
-                "title": "Perhatian!",
-                "text": "ち (chi): Dibaca 'chi' seperti 'chicah'."
-              }
-            },
-            {
-              "type": "highlight",
-              "content": {
-                "title": "Perhatian!",
-                "text": "つ (tsu): Dibaca 'tsu' seperti di akhir kata 'cats'."
-              }
             }
           ]
         }
@@ -348,13 +445,38 @@
           "color": "orange",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "な (na): Jembatan Keledai: NAga membuat simpul.",
-                "に (ni): Jembatan Keledai: Jarum dan benang (nitto).",
-                "ぬ (nu): Jembatan Keledai: Mie NUdel kusut.",
-                "ね (ne): Jembatan Keledai: NEko (kucing) meringkuk.",
-                "の (no): Jembatan Keledai: Tanda NO entry."
+                {
+                  "char": "な",
+                  "reading": "na",
+                  "desc": "Seperti 'na' pada 'nasi'",
+                  "mnemonic": "<b>NA</b>ga membuat simpul"
+                },
+                {
+                  "char": "に",
+                  "reading": "ni",
+                  "desc": "Seperti 'ni' pada 'biola'",
+                  "mnemonic": "Jarum dan benang (<b>NI</b>tto)"
+                },
+                {
+                  "char": "ぬ",
+                  "reading": "nu",
+                  "desc": "Ada simpul di ekornya",
+                  "mnemonic": "Mie <b>NU</b>del kusut"
+                },
+                {
+                  "char": "ね",
+                  "reading": "ne",
+                  "desc": "Simpul di tengah",
+                  "mnemonic": "<b>NE</b>ko (kucing) meringkuk"
+                },
+                {
+                  "char": "の",
+                  "reading": "no",
+                  "desc": "Seperti tanda dilarang",
+                  "mnemonic": "Tanda <b>NO</b> entry"
+                }
               ]
             }
           ]
@@ -368,20 +490,39 @@
           "color": "green",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "ひ (hi): Jembatan Keledai: Mulut tersenyum HIHIHI.",
-                "ふ (fu): Pelafalan unik antara 'fu' dan 'hu'. Jembatan Keledai: Gunung FUji.",
-                "へ (he): Jembatan Keledai: Jalan menuju surga (HEaven).",
-                "ほ (ho): Jembatan Keledai: Mirip は yang memakai topi, HO-HO-HO!"
+                {
+                  "char": "は",
+                  "reading": "ha (wa)",
+                  "desc": "Dibaca 'wa' saat jadi partikel. Contoh: わたし は",
+                  "mnemonic": "Mirip <b>HA</b>nduk dijemur"
+                },
+                {
+                  "char": "ひ",
+                  "reading": "hi",
+                  "desc": "Seperti 'hi' pada 'hitam'",
+                  "mnemonic": "Mulut tersenyum <b>HI</b>HIHI"
+                },
+                {
+                  "char": "ふ",
+                  "reading": "fu",
+                  "desc": "Antara 'fu' dan 'hu'",
+                  "mnemonic": "Gunung <b>FU</b>ji"
+                },
+                {
+                  "char": "へ",
+                  "reading": "he",
+                  "desc": "Seperti 'he' pada 'hewan'",
+                  "mnemonic": "Jalan menuju surga (<b>HE</b>aven)"
+                },
+                {
+                  "char": "ほ",
+                  "reading": "ho",
+                  "desc": "Mirip Ha tapi pakai topi",
+                  "mnemonic": "<b>HO</b>-HO-HO! (Santa)"
+                }
               ]
-            },
-            {
-              "type": "highlight",
-              "content": {
-                "title": "Aturan Emas #1",
-                "text": "Huruf は (ha) jika berfungsi sebagai partikel (penanda topik), ia dibaca 'wa'. Contoh: わたし は (watashi wa)."
-              }
             }
           ]
         }
@@ -466,13 +607,38 @@
           "color": "orange",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "ま (ma): Jembatan Keledai: Wajah MAnkey (monyet).",
-                "み (mi): Jembatan Keledai: Mirip angka 21, 'ME? I'm 21!'",
-                "む (mu): Jembatan Keledai: Sapi bersuara 'MUUUU'.",
-                "め (me): Jembatan Keledai: Mie (ME) yang tidak kusut (berbeda dari ぬ).",
-                "も (mo): Jembatan Keledai: Kail untuk menangkap MOre fish."
+                {
+                  "char": "ま",
+                  "reading": "ma",
+                  "desc": "Seperti 'ma' pada 'makan'",
+                  "mnemonic": "Wajah <b>MA</b>nkey (monyet)"
+                },
+                {
+                  "char": "み",
+                  "reading": "mi",
+                  "desc": "Mirip angka 21",
+                  "mnemonic": "<b>ME</b>? I'm 21!"
+                },
+                {
+                  "char": "む",
+                  "reading": "mu",
+                  "desc": "Seperti 'mu' pada 'muka'",
+                  "mnemonic": "Sapi bersuara '<b>MU</b>UUU'"
+                },
+                {
+                  "char": "め",
+                  "reading": "me",
+                  "desc": "Bayangkan mie di sumpit",
+                  "mnemonic": "<b>MI</b>e yang lezat"
+                },
+                {
+                  "char": "も",
+                  "reading": "mo",
+                  "desc": "Seperti kail pancing",
+                  "mnemonic": "Kail untuk menangkap <b>MO</b>re fish"
+                }
               ]
             }
           ]
@@ -486,19 +652,34 @@
           "color": "green",
           "children": [
             {
+              "type": "kana-group",
+              "content": [
+                {
+                  "char": "や",
+                  "reading": "ya",
+                  "desc": "Seperti 'ya' pada 'yakin'",
+                  "mnemonic": "Seekor <b>YA</b>k"
+                },
+                {
+                  "char": "ゆ",
+                  "reading": "yu",
+                  "desc": "Seperti 'yu' pada 'yuyu'",
+                  "mnemonic": "<b>YOU</b> (kamu) sedang menunjuk"
+                },
+                {
+                  "char": "よ",
+                  "reading": "yo",
+                  "desc": "Seperti 'yo' pada 'oyo'",
+                  "mnemonic": "Mainan <b>YO</b>-YO"
+                }
+              ]
+            },
+            {
               "type": "highlight",
               "content": {
                 "title": "Info",
                 "text": "Baris ini spesial karena hanya punya 3 anggota! Tidak ada suara 'yi' dan 'ye'."
               }
-            },
-            {
-              "type": "list",
-              "content": [
-                "や (ya): Jembatan Keledai: Seekor YAk.",
-                "ゆ (yu): Jembatan Keledai: YOU (kamu) sedang menunjuk.",
-                "よ (yo): Jembatan Keledai: Mainan YO-YO."
-              ]
             }
           ]
         }
@@ -595,13 +776,38 @@
               }
             },
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "ら (ra): Jembatan Keledai: RAptor mengetik.",
-                "り (ri): Jembatan Keledai: Pita (RIbbon) berkibar.",
-                "る (ru): Jembatan Keledai: Jalan (RUte) dengan simpul.",
-                "れ (re): Jembatan Keledai: Ekor REptil.",
-                "ろ (ro): Jembatan Keledai: Jalan (ROad) tanpa simpul."
+                {
+                  "char": "ら",
+                  "reading": "ra",
+                  "desc": "Seperti 'la' tapi lidah di belakang gigi atas",
+                  "mnemonic": "<b>RA</b>ptor mengetik"
+                },
+                {
+                  "char": "り",
+                  "reading": "ri",
+                  "desc": "Seperti 'li' pada 'lilin'",
+                  "mnemonic": "Pita (<b>RI</b>bbon) berkibar"
+                },
+                {
+                  "char": "る",
+                  "reading": "ru",
+                  "desc": "Ada simpul di bawah",
+                  "mnemonic": "Jalan (<b>RU</b>te) dengan simpul"
+                },
+                {
+                  "char": "れ",
+                  "reading": "re",
+                  "desc": "Ekor bebek mencuat",
+                  "mnemonic": "Ekor <b>RE</b>ptil"
+                },
+                {
+                  "char": "ろ",
+                  "reading": "ro",
+                  "desc": "Mirip Ru tapi tanpa simpul",
+                  "mnemonic": "Jalan (<b>RO</b>ad) tanpa simpul"
+                }
               ]
             }
           ]
@@ -615,18 +821,27 @@
           "color": "green",
           "children": [
             {
-              "type": "list",
+              "type": "kana-group",
               "content": [
-                "わ (wa): Jembatan Keledai: Ombak (WAve).",
-                "ん (n): Satu-satunya konsonan tunggal."
+                {
+                  "char": "わ",
+                  "reading": "wa",
+                  "desc": "Seperti 'wa' pada 'wawan'",
+                  "mnemonic": "Ombak (<b>WA</b>ve)"
+                },
+                {
+                  "char": "を",
+                  "reading": "wo (o)",
+                  "desc": "HANYA dipakai sebagai partikel objek. Dibaca 'o'.",
+                  "mnemonic": "Atlet <b>O</b>limpiade melempar cakram"
+                },
+                {
+                  "char": "ん",
+                  "reading": "n",
+                  "desc": "Satu-satunya konsonan tunggal",
+                  "mnemonic": "Huruf <b>n</b> dalam tulisan sambung"
+                }
               ]
-            },
-            {
-              "type": "highlight",
-              "content": {
-                "title": "Aturan Emas #2",
-                "text": "Huruf を (wo) 99.9% dibaca 'o' dan HANYA digunakan sebagai partikel objek. Contoh: ほん を よむ (hon o yomu)."
-              }
             }
           ]
         }

@@ -1,5 +1,5 @@
 // SERVICE WORKER - BAHASANJI
-const CACHE_NAME = 'bahasanji-v1';
+const CACHE_NAME = 'bahasanji-v2';
 const ASSETS = [
     './',
     './index.html',

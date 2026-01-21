@@ -130,6 +130,10 @@ const LessonComponent = {
             content.children.forEach(child => {
                 if (child.type === 'list') {
                     html += this.renderList(child.content);
+                } else if (child.type === 'kana-group') {
+                    html += this.renderKanaGroup(child.content);
+                } else if (child.type === 'phrase-list') {
+                    html += this.renderPhraseList(child.content);
                 } else if (child.type === 'highlight') {
                     html += this.renderHighlight(child.content);
                 } else if (child.type === 'paragraph') {
@@ -168,6 +172,44 @@ const LessonComponent = {
                 ${this.processText(content.text)}
             </div>
         `;
+    },
+
+    renderKanaGroup(items) {
+        let html = '<div class="kana-grid">';
+        items.forEach(item => {
+            html += `
+                <div class="kana-card">
+                    <div class="kana-char">${item.char}</div>
+                    <div class="kana-meta">
+                        <span class="kana-reading">${item.reading}</span>
+                        <span class="kana-desc">${item.desc}</span>
+                    </div>
+                    <div class="mnemonic-box">
+                        <small>JEMBATAN KELEDAI</small>
+                        <p>${item.mnemonic}</p>
+                    </div>
+                </div>
+            `;
+        });
+        html += '</div>';
+        return html;
+    },
+
+    renderPhraseList(items) {
+        let html = '<div class="phrase-list">';
+        items.forEach(item => {
+            const settings = SettingsManager.load();
+            html += `
+                <div class="phrase-item">
+                    <div class="phrase-main">${item.phrase}</div>
+                    ${settings.hideRomaji ? '' : `<div class="phrase-reading">${item.reading}</div>`}
+                    <div class="phrase-meaning">👉 ${item.meaning}</div>
+                    ${item.usage ? `<div class="phrase-usage">💡 ${item.usage}</div>` : ''}
+                </div>
+            `;
+        });
+        html += '</div>';
+        return html;
     },
 
     renderMission(items) {

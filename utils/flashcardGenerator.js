@@ -168,11 +168,11 @@ const FlashcardGenerator = {
     },
 
     // Weighted selection: wrong answers appear more frequently
-    selectNextCard(day, flashcards, answeredCards) {
+    selectNextCard(day, flashcards, completedCardIds) {
         const weights = this.getWeights(day);
         const availableCards = flashcards.filter(card => {
-            const answered = answeredCards.find(a => a.id === card.id);
-            return !answered || !answered.correct; // Include unanswered or wrong cards
+            // Check if THIS card ID has been completed
+            return !completedCardIds.has(card.id);
         });
 
         if (availableCards.length === 0) {

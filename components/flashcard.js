@@ -11,9 +11,27 @@ const FlashcardComponent = {
     wrongCount: 0,
     isAnswering: false,
 
+    autoPlay() {
+        if (!this.currentCard) return;
+
+        // Find correct answer
+        const correctAnswer = this.currentCard.correctAnswer;
+
+        // Simulate click
+        this.selectOption(correctAnswer);
+
+        // Schedule next move
+        setTimeout(() => {
+            if (this.currentCard) { // Check if session not finished
+                this.autoPlay();
+            }
+        }, 800); // Slightly slower than 500ms transition to be safe
+    },
+
     async start(day) {
         this.currentDay = day;
         this.answeredCards = [];
+        this.completedCardIds = new Set();
         this.correctCount = 0;
         this.wrongCount = 0;
 
@@ -41,7 +59,7 @@ const FlashcardComponent = {
         this.currentCard = FlashcardGenerator.selectNextCard(
             this.currentDay,
             this.flashcards,
-            this.answeredCards
+            this.completedCardIds
         );
 
         if (!this.currentCard) {
@@ -58,6 +76,10 @@ const FlashcardComponent = {
 
         // Update weights
         FlashcardGenerator.updateWeight(this.currentDay, this.currentCard.id, isCorrect);
+
+        if (isCorrect) {
+            this.completedCardIds.add(this.currentCard.id);
+        }
 
         // Record answer
         this.answeredCards.push({
@@ -141,6 +163,10 @@ const FlashcardComponent = {
                         <div class="stat-box-value">${accuracy}%</div>
                         <div class="stat-box-label">Akurasi</div>
                     </div>
+                    <div class="stat-box">
+                        <div class="stat-box-value">${this.wrongCount}</div>
+                        <div class="stat-box-label">Salah</div>
+                    </div>
                 </div>
                 
                 ${buttonHtml}
@@ -163,7 +189,10 @@ const FlashcardComponent = {
             <div class="flashcard-view">
                 <div class="flashcard-header">
                     <div class="flashcard-progress">${progress}/${total}</div>
-                    <button class="btn btn-red" onclick="App.exitFlashcards()">EXIT</button>
+                    <div style="display:flex; gap:8px;">
+                        ${App.isDev ? `<button class="btn btn-blue" onclick="FlashcardComponent.autoPlay()" style="padding: 4px 8px; font-size: 12px;">AUTO</button>` : ''}
+                        <button class="btn btn-red" onclick="App.exitFlashcards()">EXIT</button>
+                    </div>
                 </div>
                 
                 <div class="flashcard-container">
